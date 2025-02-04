@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="pixel.gif" alt="Pixel GIF" />
+</div>
+
 # Hi there, I'm Thomas Ou 👋
 
 <div align="center">
