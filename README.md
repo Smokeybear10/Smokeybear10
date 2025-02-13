@@ -8,6 +8,21 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Mathematics+Student;Poker+Hand+Analysis+Developer;New+Coder;Always+Learning+New+Things;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <a href="https://linkedin.com/in/thomas-ou" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:contact@thomasou.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://instagram.com/thomas_ou" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://resume.thomasou.com" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
+  </a>
+</div>
+
 
 
 📫 **contact@thomasou.com**
@@ -106,28 +121,7 @@ Mathematics student passionate about data analysis and programming. Currently wo
 
 
 
-## 🤝 Connect with Me
 
-<div align="center">
-  <a href="https://linkedin.com/in/thomas-ou" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/SmokeyBear10" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://dev.to/smokeybear10" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
-  </a>
-  <a href="https://medium.com/@contact.thomasou" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://stackoverflow.com/users/smokeybear10" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
-  </a>
-  <a href="mailto:contact@thomasou.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</div>
 
 
 
