@@ -5,7 +5,7 @@
 # Hi there, I'm Thomas Ou 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Mathematics+Student;Poker+Hand+Analysis+Developer;New+Coder;Always+Learning+New+Things;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=🍇+Lead+developer+of+the+Grape+Casino;🎰+Creator+of+0xVerify;🦍+Full+stack+web+developer;🤖+Machine+Learning+developer;🔑+Cryptography+fan;👌+Svelte+enjoyer;💰+DeFi+enthusiast;🦀+Currently+learning+Rust;📈+Working+on+CatDen%2C+an+anonymous+no-js+chat+room" alt="Typing SVG" />
 </div>
 
 <div align="center">
