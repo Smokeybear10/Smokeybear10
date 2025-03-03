@@ -24,14 +24,13 @@
 
 
 
-🎲 **Mathematics Student** specializing in probability theory and statistical analysis  
-🃏 **Poker Analytics Developer** - Building advanced hand analysis algorithms  
-💻 **Full Stack Developer** with focus on data-driven applications  
-🧮 **Statistics Enthusiast** applying mathematical models to real-world problems  
-🔍 **Data Science Explorer** - Currently diving into machine learning applications  
-🎯 **Python & R Developer** for statistical computing and analysis  
-📊 **Probability Theory Researcher** - Working on Monte Carlo simulations  
-🚀 **Always Learning** - Exploring the intersection of mathematics, statistics, and code
+🎲 Mathematics student specializing in probability theory  
+🃏 Building advanced poker hand analysis algorithms  
+💻 Full stack developer focused on data applications  
+🧮 Applying statistical models to real-world problems  
+🔍 Currently exploring machine learning applications  
+📊 Working on Monte Carlo simulations  
+🚀 Always learning at the intersection of math and code
 
 <details>
 <summary>🛠️ Tech Stack</summary>
