@@ -5,10 +5,6 @@
 # Hi there, I'm Thomas Ou 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Mathematics+Student;Poker+Hand+Analysis+Developer;New+Coder;Always+Learning+New+Things;Welcome+to+my+GitHub!" alt="Typing SVG" />
-</div>
-
-<div align="center">
   <a href="https://linkedin.com/in/thomas-ou" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -20,19 +16,24 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Mathematics+Student;Poker+Hand+Analysis+Developer;New+Coder;Always+Learning+New+Things;Welcome+to+my+GitHub!" alt="Typing SVG" />
+</div>
 
 
 
 
-- 📈 **Lead developer** at [Wharton Investment & Trading Group](https://www.pennwitg.com)
-- 🎲 **Probability** enthusiast  
-- 🃏 **Game Theory Optimal** player
-- 💻 **Data developer**  
-- 🧮 **Statistics lover**  
-- 🔍 **ML explorer**  
-- 📊 **Monte Carlo researcher**  
-- 🐍 **Python enjoyer**  
-- 🚀 **Math coder**
+
+- 📈 **Lead developer** at [WTIG](https://www.pennwitg.com)
+- 📄 **Creator** of SmartResume
+- ♠️ **Game Theory Optimization** Poker Addict
+- 🏴‍☠️ **CTF** Fanatic
+- 🌐 **Full Stack** Web Developer  
+- 🤖 **Machine Learning** Engineer
+- 🎯 **Monte Carlo** Researcher  
+- 💰 **DeFi** Enthusiast  
+- 🐪 Currently learning **OCaml**
+- 🏥 Working on **MedTech**, an AI system for Enhanced Athletes
 
 <details>
 <summary>🛠️ Tech Stack</summary>
