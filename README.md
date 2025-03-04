@@ -35,8 +35,6 @@
 - 🐪 Currently learning **OCaml**
 - 🏥 Working on **MedTech**, an AI system for Enhanced Athletes
 
----
-
 ### Here are some things I know:
 
 <div align="center">
@@ -71,6 +69,8 @@
 
 
 
+
+---
 
 ## 🏆 GitHub Trophies
 
