@@ -13,7 +13,7 @@
       <a href="mailto:contact@thomasou.com"><img src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true" width="80"></a>
     </td>
     <td align="center" width="60">
-      <a href="https://thomasou.com" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/241765460-2a3a2122-8e83-4941-8b0e-75e7f5ac5276.gif" width="60"></a>
+      <a href="https://thomasou.com" target="_blank"><img src="https://img.icons8.com/color/96/000000/domain--v1.png" width="60"></a>
     </td>
     <td align="center" width="60">
       <a href="./Resume.pdf" target="_blank"><img src="https://user-images.githubusercontent.com/29790345/184600207-42a1a54e-9faa-40c8-b18e-f8230d0c6d7c.png?raw=true" width="60"></a>
