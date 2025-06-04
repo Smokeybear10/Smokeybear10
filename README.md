@@ -10,15 +10,9 @@
 
 
 
-## 🚀 About Me
+📫 **contact@thomasou.com**
 
-- 🔭 I'm currently working on **Poker Hand Analysis**
-- 🌱 I'm currently learning **Data Analysis and Programming**
-- 👯 I'm looking to collaborate on **Mathematics and Data Science Projects**
-- 🤔 I'm looking for help with **Advanced Programming Techniques**
-- 💬 Ask me about **Mathematics, Statistics, and Poker Analytics**
-- 📫 How to reach me: **contact@thomasou.com**
-- ⚡ Fun fact: **I'm a new coder diving into the world of programming!**
+Mathematics student passionate about data analysis and programming. Currently working on Poker Hand Analysis projects while exploring the intersection of mathematics, statistics, and code. As a new coder, I'm always eager to learn and collaborate on interesting projects.
 
 <details>
 <summary>🛠️ Tech Stack</summary>
