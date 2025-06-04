@@ -20,7 +20,8 @@
 - 📫 How to reach me: **contact@thomasou.com**
 - ⚡ Fun fact: **I'm a new coder diving into the world of programming!**
 
-## 🛠️ Tech Stack
+<details>
+<summary>🛠️ Tech Stack</summary>
 
 ### Languages
 <div align="center">
@@ -63,6 +64,8 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </div>
+
+</details>
 
 
 
