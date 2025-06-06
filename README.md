@@ -104,30 +104,7 @@ Mathematics student passionate about data analysis and programming. Currently wo
   <img src="https://spotify-github-profile.vercel.app/api/spotify" alt="Spotify Currently Playing" />
 </div>
 
-## 💼 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/SmokeyBear10/poker-hand-analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SmokeyBear10&repo=poker-hand-analysis&theme=tokyonight&hide_border=false" alt="Poker Hand Analysis" />
-  </a>
-  <a href="https://github.com/SmokeyBear10/mathematics-toolkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SmokeyBear10&repo=mathematics-toolkit&theme=tokyonight&hide_border=false" alt="Mathematics Toolkit" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/SmokeyBear10/data-analysis-projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SmokeyBear10&repo=data-analysis-projects&theme=tokyonight&hide_border=false" alt="Data Analysis Projects" />
-  </a>
-  <a href="https://github.com/SmokeyBear10/learning-journey">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SmokeyBear10&repo=learning-journey&theme=tokyonight&hide_border=false" alt="Learning Journey" />
-  </a>
-</div>
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ## 🤝 Connect with Me
 
