@@ -101,7 +101,7 @@ Mathematics student passionate about data analysis and programming. Currently wo
 ## 🎵 Currently Playing on Spotify
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=1a1b27&border_color=ffffff" alt="Spotify" />
+  <img src="https://spotify-github-profile.vercel.app/api/spotify" alt="Spotify Currently Playing" />
 </div>
 
 ## 💼 Featured Projects
