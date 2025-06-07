@@ -95,13 +95,13 @@ Mathematics student passionate about data analysis and programming. Currently wo
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SmokeyBear10/SmokeyBear10/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/SmokeyBear10/SmokeyBear10/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ## 🎵 Currently Playing on Spotify
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify" alt="Spotify Currently Playing" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=smokeybear10&count=1" alt="Spotify Recently Played" />
 </div>
 
 
