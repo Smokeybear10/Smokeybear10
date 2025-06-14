@@ -24,7 +24,14 @@
 
 
 
-Mathematics student passionate about data analysis and programming. Currently working on Poker Hand Analysis projects while exploring the intersection of mathematics, statistics, and code. As a new coder, I'm always eager to learn and collaborate on interesting projects.
+🎲 **Mathematics Student** specializing in probability theory and statistical analysis  
+🃏 **Poker Analytics Developer** - Building advanced hand analysis algorithms  
+💻 **Full Stack Developer** with focus on data-driven applications  
+🧮 **Statistics Enthusiast** applying mathematical models to real-world problems  
+🔍 **Data Science Explorer** - Currently diving into machine learning applications  
+🎯 **Python & R Developer** for statistical computing and analysis  
+📊 **Probability Theory Researcher** - Working on Monte Carlo simulations  
+🚀 **Always Learning** - Exploring the intersection of mathematics, statistics, and code
 
 <details>
 <summary>🛠️ Tech Stack</summary>
