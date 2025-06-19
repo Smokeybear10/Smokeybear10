@@ -72,7 +72,9 @@
 
 ---
 
-## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SmokeyBear10&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
@@ -116,16 +118,6 @@
 
 
 
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake eating contributions" />
-</div>
 
 <div align="center">
   <i>⭐️ From [SmokeyBear10](https://github.com/SmokeyBear10)</i>
