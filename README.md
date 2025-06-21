@@ -8,6 +8,9 @@
   <a href="https://linkedin.com/in/thomas-ou" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="mailto:contact@thomasou.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <a href="https://instagram.com/thomas_ou" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
@@ -83,6 +86,10 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SmokeyBear10&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
 </div>
+
+I'm currently working on projects in artificial intelligence and blockchain/Web3 technologies. My research interests include machine learning applications in tech, algorithmic trading strategies, and the mathematical foundations of cryptographic systems.
+
+In the past, I've always found great success in collaborating and connecting with new people. I'd love to connect, so don't hesitate to reach out.
 
 <details>
 <summary><h2>📊 GitHub Stats (Click to expand!)</h2></summary>
