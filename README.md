@@ -87,9 +87,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SmokeyBear10&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 <h2> Current Focus </h2>
-I'm currently working on projects in <b>artificial intelligence</b> and <b>blockchain/Web3</b> technologies. My research interests include machine learning applications in tech, algorithmic trading strategies, and the mathematical foundations of cryptographic systems.
+I'm currently working on projects in <b>artificial intelligence</b> and <b>blockchain/Web3</b> technologies. My research interests include <b>machine learning</b> applications in tech, <b>algorithmic trading</b> strategies, and the mathematical foundations of <b>cryptographic systems</b>.
 
-In the past, I've always found great success in collaborating and connecting with new people. I'd love to connect, so don't hesitate to reach out.
+In the past, I've always found great success in collaborating and connecting with new people. I'd love to connect, so *don't hesitate to reach out*.
 
 <details>
 <summary><b>📊 More Boring Stats</b></summary>
