@@ -76,7 +76,7 @@
 ---
 
 <div align="center">
-  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify" />
+  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify" width="100%" />
 </div>
 
 <div align="center">
@@ -87,7 +87,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SmokeyBear10&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 <h2> Current Focus </h2>
-I'm currently working on projects in **artificial intelligence** and **blockchain/Web3** technologies. My research interests include machine learning applications in tech, algorithmic trading strategies, and the mathematical foundations of cryptographic systems.
+I'm currently working on projects in <b>artificial intelligence</b> and <b>blockchain/Web3</b> technologies. My research interests include machine learning applications in tech, algorithmic trading strategies, and the mathematical foundations of cryptographic systems.
 
 In the past, I've always found great success in collaborating and connecting with new people. I'd love to connect, so don't hesitate to reach out.
 
