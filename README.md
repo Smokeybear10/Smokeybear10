@@ -11,7 +11,7 @@
   <a href="mailto:contact@thomasou.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="./resume.pdf" target="_blank">
+  <a href="./Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
   </a>
 </div>
@@ -87,9 +87,7 @@
 </div>
 <h2> Current Focus </h2>
 I'm currently working on projects in <b>artificial intelligence</b> and <b>blockchain/Web3</b> technologies. My research interests include <b>machine learning</b> applications in tech, <b>algorithmic trading</b> strategies, and the mathematical foundations of <b>cryptographic systems</b>.
-
-<br>
-
+<br><br>
 In the past, I've always found great success in collaborating and connecting with new people. I'd love to connect, so *don't hesitate to reach out*.
 
 <details>
