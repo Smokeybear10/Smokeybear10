@@ -5,16 +5,13 @@
 # Hi there, I'm Thomas Ou 👋
 
 <div align="center">
-  <a href="https://linkedin.com/in/thomas-ou" target="_blank">
+  <a href="https://www.linkedin.com/in/thomasou2006" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:contact@thomasou.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://instagram.com/thomas_ou" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://resume.thomasou.com" target="_blank">
+  <a href="./resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
   </a>
 </div>
@@ -90,6 +87,8 @@
 </div>
 <h2> Current Focus </h2>
 I'm currently working on projects in <b>artificial intelligence</b> and <b>blockchain/Web3</b> technologies. My research interests include <b>machine learning</b> applications in tech, <b>algorithmic trading</b> strategies, and the mathematical foundations of <b>cryptographic systems</b>.
+
+<br>
 
 In the past, I've always found great success in collaborating and connecting with new people. I'd love to connect, so *don't hesitate to reach out*.
 
