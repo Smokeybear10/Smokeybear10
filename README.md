@@ -13,7 +13,7 @@
       <a href="mailto:contact@thomasou.com"><img src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true" width="80"></a>
     </td>
     <td align="center" width="60">
-      <a href="https://thomasou.com" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/domain.png" width="60"></a>
+      <a href="https://thomasou.com" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="60"></a>
     </td>
     <td align="center" width="60">
       <a href="./Resume.pdf" target="_blank"><img src="https://user-images.githubusercontent.com/29790345/184600207-42a1a54e-9faa-40c8-b18e-f8230d0c6d7c.png?raw=true" width="60"></a>
@@ -25,8 +25,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=MMA+Fighter;ML+Engineer;System+Architect;Creative+Builder;Innovation+Hunter" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SmokeyBear10&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/SmokeyBear10?label=Followers&style=social" alt="GitHub followers" />
+</div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
+## 🚀 About Me
 
 
 - 📈 **Lead developer** at [WUDAC](https://wudac.org)
@@ -40,7 +46,9 @@
 - 🐪 Currently learning **OCaml**
 - 🏥 Working on **MedTech**, an AI system for Enhanced Athletes
 
-### Here are some things I know:
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+## 💻 Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -67,11 +75,21 @@
   <img src="https://img.shields.io/badge/Excel_VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel VBA" />
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
+## 🎯 Current Focus
 
+<div align="center">
 
+I'm currently working on projects in **artificial intelligence** and **blockchain/Web3** technologies. My research interests include **machine learning** applications in tech, **algorithmic trading** strategies, and the mathematical foundations of **cryptographic systems**.
 
----
+In the past, I've always found great success in collaborating and connecting with new people. I'd love to connect, so *don't hesitate to reach out*.
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+## 🎵 Spotify Playing
 
 <div align="center">
   <a href="https://open.spotify.com/user/qyuqt7mpf9rl0h4culvha3f0c?si=a765a906bdbe47a4">
@@ -79,17 +97,21 @@
   </a>
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+## 🏆 GitHub Trophies
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SmokeyBear10&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+## 📊 GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SmokeyBear10&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
 </div>
-<h2> Current Focus </h2>
-I'm currently working on projects in <b>artificial intelligence</b> and <b>blockchain/Web3</b> technologies. My research interests include <b>machine learning</b> applications in tech, <b>algorithmic trading</b> strategies, and the mathematical foundations of <b>cryptographic systems</b>.
-<br><br>
-In the past, I've always found great success in collaborating and connecting with new people. I'd love to connect, so *don't hesitate to reach out*.
 
 <details>
 <summary><b>📊 More Boring Stats</b></summary>
@@ -108,6 +130,7 @@ In the past, I've always found great success in collaborating and connecting wit
 
 </details>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 
 
@@ -118,8 +141,15 @@ In the past, I've always found great success in collaborating and connecting wit
 
 
 
-
+## 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake eating contributions" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+<div align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
 </div>
