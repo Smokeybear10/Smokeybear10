@@ -76,7 +76,9 @@
 ---
 
 <div align="center">
-  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify" />
+  <a href="https://open.spotify.com/user/qyuqt7mpf9rl0h4culvha3f0c?si=a765a906bdbe47a4">
+    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify" />
+  </a>
 </div>
 
 <div align="center">
