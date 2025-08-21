@@ -73,7 +73,7 @@
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&width=1000" alt="Random Dev Quote" width="100%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
 <div align="center">
@@ -85,7 +85,7 @@
 </div>
 
 <details>
-<summary>📊 GitHub Stats</summary>
+<summary><h2>📊 GitHub Stats (Click to expand!)</h2></summary>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SmokeyBear10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -119,6 +119,8 @@
 
 
 
+## 🐍 Contribution Snake
+
 <div align="center">
-  <i>⭐️ From [SmokeyBear10](https://github.com/SmokeyBear10)</i>
+  <img src="https://raw.githubusercontent.com/SmokeyBear10/SmokeyBear10/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
