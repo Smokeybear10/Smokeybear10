@@ -107,11 +107,7 @@ Mathematics student passionate about data analysis and programming. Currently wo
 
 </details>
 
-## 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SmokeyBear10/SmokeyBear10/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
 ## 🎵 Currently Playing on Spotify
 
