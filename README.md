@@ -73,7 +73,7 @@
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify" />
 </div>
 
 <div align="center">
@@ -105,13 +105,6 @@
 
 
 
-## 🎵 Currently Playing on Spotify
-
-<div align="center">
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/smokeybear10)
-
-</div>
 
 
 
@@ -119,8 +112,7 @@
 
 
 
-## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SmokeyBear10/SmokeyBear10/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake eating contributions" />
 </div>
