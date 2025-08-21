@@ -35,6 +35,8 @@
 - 🐪 Currently learning **OCaml**
 - 🏥 Working on **MedTech**, an AI system for Enhanced Athletes
 
+---
+
 ### Here are some things I know:
 
 <div align="center">
@@ -68,6 +70,18 @@
 
 
 
+
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SmokeyBear10&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SmokeyBear10&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
 <details>
 <summary>📊 GitHub Stats</summary>
 
@@ -83,18 +97,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmokeyBear10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
-
 </details>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SmokeyBear10&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SmokeyBear10&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
-</div>
 
 
 
