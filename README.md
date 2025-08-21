@@ -8,24 +8,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Mathematics+Student;Poker+Hand+Analysis+Developer;New+Coder;Always+Learning+New+Things;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <a href="https://linkedin.com/in/thomas-ou" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:contact@thomasou.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://instagram.com/thomas_ou" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://resume.thomasou.com" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
-  </a>
-</div>
 
 
 
-📫 **contact@thomasou.com**
 
 Mathematics student passionate about data analysis and programming. Currently working on Poker Hand Analysis projects while exploring the intersection of mathematics, statistics, and code. As a new coder, I'm always eager to learn and collaborate on interesting projects.
 
@@ -93,19 +78,20 @@ Mathematics student passionate about data analysis and programming. Currently wo
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmokeyBear10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
-### 🏆 GitHub Trophies
+
+</details>
+
+## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SmokeyBear10&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
-### 📈 Activity Graph
+## 📈 Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SmokeyBear10&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
 </div>
-
-</details>
 
 
 
