@@ -24,8 +24,9 @@
 
 
 
-- 🎲 **Probability enthusiast**  
-- 🃏 **Poker analyst**  
+- 📈 **Lead developer** at [Wharton Investment & Trading Group](https://www.pennwitg.com)
+- 🎲 **Probability** enthusiast  
+- 🃏 **Game Theory Optimal** player
 - 💻 **Data developer**  
 - 🧮 **Statistics lover**  
 - 🔍 **ML explorer**  
