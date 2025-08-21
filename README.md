@@ -75,7 +75,9 @@
 
 ---
 
-<img src="https://novatorem.vercel.app/api/spotify" alt="Spotify" width="100%" />
+<div align="center">
+  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify" />
+</div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SmokeyBear10&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
