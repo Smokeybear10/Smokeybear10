@@ -116,7 +116,7 @@ Mathematics student passionate about data analysis and programming. Currently wo
 ## 🎵 Currently Playing on Spotify
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=smokeybear10&count=1" alt="Spotify Recently Played" />
+  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing" width="350" />
 </div>
 
 
