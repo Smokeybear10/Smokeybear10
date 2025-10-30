@@ -22,7 +22,7 @@
 </table>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=MMA+Fighter;ML+Engineer;System+Architect;Creative+Builder;Innovation+Hunter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=MMA+Fighter;Combat+Sports+Analyst;ML+Engineer;System+Architect;Innovation+Hunter" alt="Typing SVG" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
@@ -31,14 +31,14 @@
 
 
 - 📈 **Lead developer** at [WUDAC](https://wudac.org)
-- 📄 **Creator** of SmartResume
+- 📄 **Creator** of FightVision
 - ♠️ **Game Theory Optimization** Poker Addict
 - 🌐 **Full Stack** Web Developer
 - 🤖 **Machine Learning** Engineer
 - 🎯 **Monte Carlo** Researcher
 - 💰 **DeFi** Enthusiast
 - 🐪 Currently learning **OCaml**
-- 🏥 Working on **MedTech**, an AI system for Enhanced Athletes
+- 🥊 Currently working on **UFC-Engine**, ML for Combat Sport Analytics
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
@@ -75,7 +75,9 @@
 
 <div align="center">
 
-I'm currently working on projects in **artificial intelligence** and **blockchain/Web3** technologies. My research interests include **machine learning** applications in tech, **algorithmic trading** strategies, and the mathematical foundations of **cryptographic systems**.
+I'm currently working on **UFC-Engine**, applying **machine learning** to combat sports analytics. As an active **MMA fighter**, I'm passionate about bridging the gap between martial arts and technology, developing AI systems that enhance athletic performance and fight prediction models.
+
+My research interests also include **algorithmic trading** strategies, **blockchain/Web3** technologies, and the mathematical foundations of **cryptographic systems**.
 
 In the past, I've always found great success in collaborating and connecting with new people. I'd love to connect, so *don't hesitate to reach out*.
 
@@ -96,29 +98,16 @@ In the past, I've always found great success in collaborating and connecting wit
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SmokeyBear10&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SmokeyBear10&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&title=Commits,MultiLanguage,Repositories" alt="GitHub Trophies" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-## 📊 GitHub Stats
-
-<details>
-<summary><b>📊 Click to view stats</b></summary>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SmokeyBear10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SmokeyBear10&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</div>
+## 📊 Most Used Languages
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmokeyBear10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
-
-</details>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
