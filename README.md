@@ -4,16 +4,19 @@
 
 # Hi there, I'm Thomas Ou
 
-<table width="120" align="center">
+<table width="150" align="center">
   <tr>
-    <td align="center" width="60">
-      <a href="https://www.linkedin.com/in/thomasou2006" target="_blank"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" height="36" width="65"></a>
-    </td>
     <td align="center" width="60">
       <a href="mailto:contact@thomasou.com"><img src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true" width="80"></a>
     </td>
     <td align="center" width="60">
-      <a href="https://thomasou.com" target="_blank"><img src="https://img.icons8.com/color/96/000000/domain--v1.png" width="60"></a>
+      <a href="https://www.linkedin.com/in/thomasou2006" target="_blank"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" height="36" width="65"></a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://thomasou.com" target="_blank"><img src="WebsiteIcon.png" width="60"></a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://www.instagram.com/tommy_ou_/" target="_blank"><img src="https://img.icons8.com/fluency/96/instagram-new.png" width="60"></a>
     </td>
     <td align="center" width="60">
       <a href="./Resume.pdf" target="_blank"><img src="https://user-images.githubusercontent.com/29790345/184600207-42a1a54e-9faa-40c8-b18e-f8230d0c6d7c.png?raw=true" width="60"></a>
@@ -25,14 +28,45 @@
 
 ## About Me
 
-- Rust aficionado (76.76% of my code is in Rust!)
-- Full-stack maestro (JavaScript, CSS, HTML, TypeScript)
-- Polyglot programmer (Zig, Ruby, Python, and 20+ more languages)
-- Poker Addict and Lover of Game Theory Optimization (GTO)
-- DevOps and database enthusiast
-- Dabbling in AI/ML and data analysis
+```rust
+struct ThomasOu {
+    role: &'static str,
+    specialties: Vec<&'static str>,
+    current_focus: Vec<&'static str>,
+    interests: Vec<&'static str>,
+}
 
-- Currently working on **UFC-Engine**, ML for Combat Sport Analytics
+impl ThomasOu {
+    fn new() -> Self {
+        Self {
+            role: "Full-Stack Developer & MMA Fighter",
+            specialties: vec!["Rust", "JavaScript", "Python", "Machine Learning"],
+            current_focus: vec![
+                "UFC-Engine - Combat Sports Analytics",
+                "Algorithmic Trading Strategies",
+                "Blockchain/Web3 Technologies",
+                "Cryptographic Systems"
+            ],
+            interests: vec![
+                "Game Theory Optimization (GTO)",
+                "Poker Strategy",
+                "DevOps & Distributed Systems",
+                "AI/ML Performance Optimization"
+            ],
+        }
+    }
+
+    fn current_projects(&self) -> Vec<&'static str> {
+        vec![
+            "🥊 UFC-Engine",
+            "👁️ FightVision AI",
+            "♠️ MontePoker",
+            "📈 Quantitative Trading Systems",
+            "📄 ResumeOptimizer"
+        ]
+    }
+}
+```
 
 ---
 
@@ -89,23 +123,17 @@ In the past, I've always found great success in collaborating and connecting wit
 
 ---
 
-## GitHub Trophies
+## GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SmokeyBear10&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&title=Commits,MultiLanguage,Repositories" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SmokeyBear10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
----
-
-## Most Used Languages
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SmokeyBear10&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmokeyBear10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
-<br />
-
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-</div>
