@@ -2,7 +2,7 @@
   <img src="Pixel.gif" alt="Pixel GIF" />
 </div>
 
-# Hi there, I'm Thomas Ou 👋
+# Hi there, I'm Thomas Ou
 
 <table width="120" align="center">
   <tr>
@@ -21,28 +21,22 @@
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=MMA+Fighter;Combat+Sports+Analyst;ML+Engineer;System+Architect;Innovation+Hunter" alt="Typing SVG" />
-</div>
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+## About Me
 
-## 🚀 About Me
+- Rust aficionado (76.76% of my code is in Rust!)
+- Full-stack maestro (JavaScript, CSS, HTML, TypeScript)
+- Polyglot programmer (Zig, Ruby, Python, and 20+ more languages)
+- Poker Addict and Lover of Game Theory Optimization (GTO)
+- DevOps and database enthusiast
+- Dabbling in AI/ML and data analysis
 
+- Currently working on **UFC-Engine**, ML for Combat Sport Analytics
 
-- 📈 **Lead developer** at [WUDAC](https://wudac.org)
-- 📄 **Creator** of FightVision
-- ♠️ **Game Theory Optimization** Poker Addict
-- 🌐 **Full Stack** Web Developer
-- 🤖 **Machine Learning** Engineer
-- 🎯 **Monte Carlo** Researcher
-- 💰 **DeFi** Enthusiast
-- 🐪 Currently learning **OCaml**
-- 🥊 Currently working on **UFC-Engine**, ML for Combat Sport Analytics
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -69,13 +63,13 @@
   <img src="https://img.shields.io/badge/Excel_VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel VBA" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+---
 
-## 🎯 Current Focus
+## Current Focus
 
 <div align="center">
 
-I'm currently working on **UFC-Engine**, applying **machine learning** to combat sports analytics. As an active **MMA fighter**, I'm passionate about bridging the gap between martial arts and technology, developing AI systems that enhance athletic performance and fight prediction models.
+I'm currently working on **UFC-Engine**, applying **machine learning** to combat sports analytics. As an active **MMA fighter** and avid coder, I want to combine my two passion into one - an AI systems that enhance athletic performance and fight prediction models.
 
 My research interests also include **algorithmic trading** strategies, **blockchain/Web3** technologies, and the mathematical foundations of **cryptographic systems**.
 
@@ -83,9 +77,9 @@ In the past, I've always found great success in collaborating and connecting wit
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+---
 
-## 🎵 Spotify Playing
+## Spotify Playing
 
 <div align="center">
   <a href="https://open.spotify.com/user/qyuqt7mpf9rl0h4culvha3f0c?si=a765a906bdbe47a4">
@@ -93,33 +87,23 @@ In the past, I've always found great success in collaborating and connecting wit
   </a>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SmokeyBear10&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&title=Commits,MultiLanguage,Repositories" alt="GitHub Trophies" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+---
 
-## 📊 Most Used Languages
+## Most Used Languages
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmokeyBear10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-
-
-
-
-
-
-
-
-
+<br />
 
 <div align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
