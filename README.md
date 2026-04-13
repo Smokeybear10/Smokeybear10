@@ -27,6 +27,87 @@
   </tr>
 </table>
 
+<div align="center">
+<table>
+<tr>
+<td valign="top"><pre>
+                                                        
+                                                        
+                       ;         .+                     
+                                                        
+                                         :              
+                                                        
+           +                                            
+          ;                                             
+                          ...                           
+                         .::::..                        
+                          .::::..                       
+        +                   .:::.    .:.                
+        :             .. .. .::::..   .:::::            
+                 ..        ..:;;::.    .  .:.           
+                 ...     .::::;;::::::::;;;;:           
+                ::;;::::::::::;+;;:;;;;++;+;;.          
+               .::;;+;;;:::::;++;;;;::;;+++;::  :       
+               .:::;:::...::.::::..:::.:::;:::..        
+           .   ..::::::::..     .::::;::::::::::        
+            .. ...::::::::::::::;;;;;;;::::::::;        
+            ;:  ...::::::::..  .  ...::::::::           
+               ....::::   .:+;X+#X+;. :::::::           
+               +  ...:::. .:::::::::.;;:::::            
+                    ..::::   . .   .:::::::;            
+                      :.::..  .  ..:::::::              
+                       ..:::.....:::;:::::              
+                        .:::::::;;;;;;:.:;              
+                  ..     .:::::::;:::.:::               
+                 +.....      ..:....:::::               
+                $X:.:.:...       .::::::;               
+            ;X&&$XX:::::::::.......:::::                
+              :&$&$X :::::::::.:::..:::: X    :         
+      ;        ;&&$$XX;::::::::::::::::::X&:            
+   :            +&&&&$$X;::::::::::::::. :&&&:          
+&&$              $&&&&&$$X:::::::::::;::  X&&&$       X 
+</pre></td>
+<td valign="top"><pre>
+thomas@github
+─────────────
+
+OS         macOS Sequoia
+Host       Philadelphia, PA
+Kernel     TypeScript 5.x
+Uptime     since 2006
+Shell      zsh + fish
+Editor     Cursor
+Theme      Dracula
+
+Languages
+─────────
+TypeScript  ████████████░
+Python      ███████████░░
+Rust        ███████░░░░░░
+OCaml       ████░░░░░░░░░
+
+Currently shipping
+──────────────────
+D4NCE     AI-powered DJ
+V3RSUS    MMA fight predictor
+STR1KE    strike detection CV
+R1VER     poker intelligence
+DR4FT     resume optimizer
+
+Stack
+─────
+React · Next.js · Tailwind
+FastAPI · Postgres · Docker
+PyTorch · TensorFlow
+
+Fighter
+───────
+MMA · GTO poker · fight film
+</pre></td>
+</tr>
+</table>
+</div>
+
 ---
 
 ## About Me
