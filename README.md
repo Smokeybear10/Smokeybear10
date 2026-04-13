@@ -148,7 +148,7 @@ xxxxxxxxx     :&$&$Xx:::::::::.:::..::::xX    :xxxxxxxxx   . Instagram: . . . . 
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SmokeyBear10&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=15&cache_seconds=86400" alt="GitHub Trophies" />
+  <img src="https://raw.githubusercontent.com/SmokeyBear10/SmokeyBear10/main/profile-trophies/trophy.svg" alt="GitHub Trophies" />
 </div>
 
 ---
