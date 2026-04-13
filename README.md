@@ -29,36 +29,36 @@
 
 <div align="center">
 <pre>
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   thomas@github ────────────────────────────────────────────────────────
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   thomas@github --------------------------------------------------------
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                                                                         
 xxxxxxxxxxxxxxxxxxxxxxx;         .+xxxxxxxxxxxxxxxxxxxxx   . OS: . . . . . . . . . . . . . . . . . . . . . . . . .  macOS Sequoia
 xxxxxxxxxxxxxxxxxxxxx                  xxxxxxxxxxxxxxxxx   . Uptime: . . . . . . . . . . . . . . . . . . . . . 19 years, 4 months
 xxxxxxxxxxxxxxxx                         :xxxxxxxxxxxxxx   . Host: . . . . . . . . . . . . . . . . . . . . . . . Philadelphia, PA
 xxxxxxxxxxxxx                               xxxxxxxxxxxx   . Kernel: . . . . . . . . . . . . . . . . . . . . . . . TypeScript 5.x
-xxxxxxxxxxx+                                 xxxxxxxxxxx   . IDE: . . . . . . . . . . . . . . . . . . . . .  Cursor + Claude Code
-xxxxxxxxxx;                                   xxxxxxxxxx   
-xxxxxxxxxx                ...                  xxxxxxxxx   . Languages.Programming: . . . . . . . TypeScript, Python, Rust, OCaml
-xxxxxxxxx                .::::..                xxxxxxxx   . Languages.Frameworks: . . . . . . . React, Next.js, FastAPI, PyTorch
-xxxxxxxxx                 .::::..               xxxxxxxx   . Languages.Real: . . . . . . . . . . . . . . . . .  English, Mandarin
-xxxxxxxx+                   .:::.    .:.         xxxxxxx   
-xxxxxxxx:             .. .. .::::..   .:::::     xxxxxxx   . Interests.Fighting: . . . . . . . . . . . . . . . . . . Boxing, Judo
-xxxxxxxxx        ..        ..:;;::.    .  .:.    xxxxxxx   . Interests.Games: . . . . . . . . . . . . . . . . . . .  Chess, Poker
-xxxxxxxxx        ...     .::::;;::::::::;;;;:    xxxxxxx   . Interests.Physical: . .  Powerlifting, Basketball, Marathon, Camping
-xxxxxxxxx       ::;;::::::::::;+;;:;;;;++;+;;.   xxxxxxx   
-xxxxxxxxxx     .::;;+;;;:::::;++;;;;::;;+++;::  :xxxxxxx   - Currently Shipping ─────────────────────────────────────────────────
+xxxxxxxxxxx+                                 xxxxxxxxxxx   . Shell: . . . . . . . . . . . . . . . . . . . . . . . . .  zsh + fish
+xxxxxxxxxx;                                   xxxxxxxxxx   . IDE: . . . . . . . . . . . . . . . . . . . . .  VS Code, Cursor, Vim
+xxxxxxxxxx                ...                  xxxxxxxxx                                                                         
+xxxxxxxxx                .::::..                xxxxxxxx   . Languages.Programming: . . . . . . . TypeScript, Python, Rust, OCaml
+xxxxxxxxx                 .::::..               xxxxxxxx   . Languages.Frameworks: . . . . . . . React, Next.js, FastAPI, PyTorch
+xxxxxxxx+                   .:::.    .:.         xxxxxxx   . Languages.Real: . . . . . . . . . . . . . . . . .  English, Mandarin
+xxxxxxxx:             .. .. .::::..   .:::::     xxxxxxx                                                                         
+xxxxxxxxx        ..        ..:;;::.    .  .:.    xxxxxxx   . Interests.Physical: . . . . . . . . . . . Boxing, Judo, Powerlifting
+xxxxxxxxx        ...     .::::;;::::::::;;;;:    xxxxxxx   . Interests.Hobbies: . . . . . . . . . . . . . Chess, Poker, Saxophone
+xxxxxxxxx       ::;;::::::::::;+;;:;;;;++;+;;.   xxxxxxx                                                                         
+xxxxxxxxxx     .::;;+;;;:::::;++;;;;::;;+++;::  :xxxxxxx   - Currently Shipping -------------------------------------------------
 xxxxxxxxxxx    .:::;:::...::.::::..:::.:::;:::..xxxxxxxx   . D4NCE: . . . . . . . . . . . . . . . . . . . .  AI-powered DJ system
 xxxxxxxxxxx.   ..::::::::..     .::::;::::::::::xxxxxxxx   . V3RSUS: . . . . . . . . . . . . . . . . . . . .  MMA fight predictor
 xxxxxxxxxxxx.. ...::::::::::::::;;;;;;;::::::::;xxxxxxxx   . STR1KE: . . . . . . . . . . . . . . . . . . . .  strike detection CV
 xxxxxxxxxxxx;:  ...::::::::..  .  ...::::::::xxxxxxxxxxx   . R1VER: . . . . . . . . . . . . . . . . . . . . .  poker intelligence
 xxxxxxxxxxxxxxx....::::   .:+;X+#X+;. :::::::xxxxxxxxxxx   . DR4FT: . . . . . . . . . . . . . . . . . . . . . AI resume optimizer
-xxxxxxxxxxxxxxx+  ...:::. .:::::::::.;;:::::xxxxxxxxxxxx   
-xxxxxxxxxxxxxxxx    ..::::   . .   .:::::::;xxxxxxxxxxxx   - Achievements ───────────────────────────────────────────────────────
-xxxxxxxxxxxxxxxxx     :.::..  .  ..:::::::xxxxxxxxxxxxxx   . Math: . . . . . . . .  USAMO HM · Putnam 22 · AMC 10/12 DHR (Top 1%)
-xxxxxxxxxxxxxxxxxx     ..:::.....:::;:::::xxxxxxxxxxxxxx   . Scholar: . . . . . . . . . . . . . . . Questbridge CPS · Eagle Scout
-xxxxxxxxxxxxxxxxxx      .:::::::;;;;;;:.:;xxxxxxxxxxxxxx   . Poker: . . . . . . . . . . . SIG Finalist · IMC Finalist (Top 9/250)
-xxxxxxxxxxxxxxxxxx..     .:::::::;:::.:::xxxxxxxxxxxxxxx   . Chess: . . . . . . . . . . . . . . . . . . . . .  Chess.com 2100 ELO
-xxxxxxxxxxxxxxxxx+.....      ..:....:::::xxxxxxxxxxxxxxx   
-xxxxxxxxxxxxxxxx$X:.:.:...       .::::::;xxxxxxxxxxxxxxx   - Contact ────────────────────────────────────────────────────────────
+xxxxxxxxxxxxxxx+  ...:::. .:::::::::.;;:::::xxxxxxxxxxxx                                                                         
+xxxxxxxxxxxxxxxx    ..::::   . .   .:::::::;xxxxxxxxxxxx   - Achievements -------------------------------------------------------
+xxxxxxxxxxxxxxxxx     :.::..  .  ..:::::::xxxxxxxxxxxxxx   . USAMO: . . . . . . . . . . . . . . . . . . . . . . Honorable Mention
+xxxxxxxxxxxxxxxxxx     ..:::.....:::;:::::xxxxxxxxxxxxxx   . Putnam: . . . . . . . . . . . . . . . . . . . Competitor (Score: 22)
+xxxxxxxxxxxxxxxxxx      .:::::::;;;;;;:.:;xxxxxxxxxxxxxx   . AMC 10/12: . . . . . . . . . . . . . . . . Distinguished HR (Top 1%)
+xxxxxxxxxxxxxxxxxx..     .:::::::;:::.:::xxxxxxxxxxxxxxx   . Poker: . . . . . . . . . . . SIG Finalist | IMC Finalist (Top 9/250)
+xxxxxxxxxxxxxxxxx+.....      ..:....:::::xxxxxxxxxxxxxxx                                                                         
+xxxxxxxxxxxxxxxx$X:.:.:...       .::::::;xxxxxxxxxxxxxxx   - Contact ------------------------------------------------------------
 xxxxxxxxxxxx;X&&$XX:::::::::.......:::::xxxxxxxxxxxxxxxx   . Email: . . . . . . . . . . . . . . . . . . . .  contact@thomasou.com
 xxxxxxxxx     :&$&$Xx:::::::::.:::..::::xX    :xxxxxxxxx   . Website: . . . . . . . . . . . . . . . . . . . . . . .  thomasou.com
 xxxxxx;        ;&&$$XX;::::::::::::::::::X&:       xxxxx   . LinkedIn: . . . . . . . . . . . . . . . . . . . . . . . .  thomasou0
