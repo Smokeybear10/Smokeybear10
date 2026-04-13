@@ -29,7 +29,6 @@
 struct ThomasOu {
     role: &'static str,
     specialties: Vec<&'static str>,
-    current_focus: Vec<&'static str>,
     interests: Vec<&'static str>,
 }
 
@@ -38,12 +37,6 @@ impl ThomasOu {
         Self {
             role: "Full-Stack Developer & MMA Fighter",
             specialties: vec!["Rust", "JavaScript", "Python", "Machine Learning"],
-            current_focus: vec![
-                "UFC-Engine - Combat Sports Analytics",
-                "Algorithmic Trading Strategies",
-                "Blockchain/Web3 Technologies",
-                "Cryptographic Systems"
-            ],
             interests: vec![
                 "Game Theory Optimization (GTO)",
                 "Poker Strategy",
@@ -55,11 +48,11 @@ impl ThomasOu {
 
     fn current_projects(&self) -> Vec<&'static str> {
         vec![
-            "🥊 UFC-Engine",
-            "👁️ FightVision AI",
-            "♠️ MontePoker",
-            "📈 Quantitative Trading Systems",
-            "📄 ResumeOptimizer"
+            "🎧 D4NCE — AI-Powered DJ System",
+            "🥊 V3RSUS — MMA Predictive Analytics",
+            "👁️ STR1KE — MMA Strike Detection",
+            "♠️ R1VER — Poker Intelligence",
+            "📄 DR4FT — AI Resume Optimizer"
         ]
     }
 }
@@ -92,20 +85,6 @@ impl ThomasOu {
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Excel_VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel VBA" />
-</div>
-
----
-
-## Current Focus
-
-<div align="center">
-
-I'm currently working on **UFC-Engine**, applying **machine learning** to combat sports analytics. As an active **MMA fighter** and avid coder, I want to combine my two passion into one - an AI systems that enhance athletic performance and fight prediction models.
-
-My research interests also include **algorithmic trading** strategies, **blockchain/Web3** technologies, and the mathematical foundations of **cryptographic systems**.
-
-In the past, I've always found great success in collaborating and connecting with new people. I'd love to connect, so *don't hesitate to reach out*.
-
 </div>
 
 ---
