@@ -27,53 +27,55 @@
   </tr>
 </table>
 
-```ansi
-[38;5;246mxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx[0m   [1;38;5;141mthomas@github[0m [38;5;239m────────────────────────────────────────────────────────[0m
-[38;5;246mxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx[0m   
-[38;5;246mxxxxxxxxxxxxxxxxxxxxxxx;         .+xxxxxxxxxxxxxxxxxxxxx[0m   [38;5;239m. [38;5;141mOS:[0m [38;5;239m. . . . . . . . . . . . . . . . . . . . . . . . . [0m [38;5;253mmacOS Sequoia[0m
-[38;5;246mxxxxxxxxxxxxxxxxxxxxx                  xxxxxxxxxxxxxxxxx[0m   [38;5;239m. [38;5;141mUptime:[0m [38;5;239m. . . . . . . . . . . . . . . . . . . . .[0m [38;5;253m19 years, 4 months[0m
-[38;5;246mxxxxxxxxxxxxxxxx                         :xxxxxxxxxxxxxx[0m   [38;5;239m. [38;5;141mHost:[0m [38;5;239m. . . . . . . . . . . . . . . . . . . . . . .[0m [38;5;253mPhiladelphia, PA[0m
-[38;5;246mxxxxxxxxxxxxx                               xxxxxxxxxxxx[0m   [38;5;239m. [38;5;141mKernel:[0m [38;5;239m. . . . . . . . . . . . . . . . . . . . . . .[0m [38;5;253mTypeScript 5.x[0m
-[38;5;246mxxxxxxxxxxx+                                 xxxxxxxxxxx[0m   [38;5;239m. [38;5;141mIDE:[0m [38;5;239m. . . . . . . . . . . . . . . . . . . . . [0m [38;5;253mCursor + Claude Code[0m
-[38;5;246mxxxxxxxxxx;                                   xxxxxxxxxx[0m   
-[38;5;246mxxxxxxxxxx                ...                  xxxxxxxxx[0m   [38;5;239m. [38;5;141mLanguages.Programming:[0m [38;5;239m. . . . . . .[0m [38;5;253mTypeScript, Python, Rust, OCaml[0m
-[38;5;246mxxxxxxxxx                .::::..                xxxxxxxx[0m   [38;5;239m. [38;5;141mLanguages.Frameworks:[0m [38;5;239m. . . . . . .[0m [38;5;253mReact, Next.js, FastAPI, PyTorch[0m
-[38;5;246mxxxxxxxxx                 .::::..               xxxxxxxx[0m   [38;5;239m. [38;5;141mLanguages.Real:[0m [38;5;239m. . . . . . . . . . . . . . . . . [0m [38;5;253mEnglish, Mandarin[0m
-[38;5;246mxxxxxxxx+                   .:::.    .:.         xxxxxxx[0m   
-[38;5;246mxxxxxxxx:             .. .. .::::..   .:::::     xxxxxxx[0m   [38;5;239m. [38;5;141mInterests.Fighting:[0m [38;5;239m. . . . . . . . . . . . . . . . . .[0m [38;5;253mBoxing, Judo[0m
-[38;5;246mxxxxxxxxx        ..        ..:;;::.    .  .:.    xxxxxxx[0m   [38;5;239m. [38;5;141mInterests.Games:[0m [38;5;239m. . . . . . . . . . . . . . . . . . . [0m [38;5;253mChess, Poker[0m
-[38;5;246mxxxxxxxxx        ...     .::::;;::::::::;;;;:    xxxxxxx[0m   [38;5;239m. [38;5;141mInterests.Physical:[0m [38;5;239m. . . . . . .[0m [38;5;253mPowerlifting, Basketball, Marathon[0m
-[38;5;246mxxxxxxxxx       ::;;::::::::::;+;;:;;;;++;+;;.   xxxxxxx[0m   [38;5;239m. [38;5;141mInterests.Outdoor:[0m [38;5;239m. . . . . . . . . . . . . . . . . . . . .[0m [38;5;253mCamping[0m
-[38;5;246mxxxxxxxxxx     .::;;+;;;:::::;++;;;;::;;+++;::  :xxxxxxx[0m   
-[38;5;246mxxxxxxxxxxx    .:::;:::...::.::::..:::.:::;:::..xxxxxxxx[0m   [38;5;239m- [1;38;5;117mCurrently Shipping[0m [38;5;239m─────────────────────────────────────────────────[0m
-[38;5;246mxxxxxxxxxxx.   ..::::::::..     .::::;::::::::::xxxxxxxx[0m   [38;5;239m. [38;5;84mD4NCE:[0m [38;5;239m. . . . . . . . . . . . . . . . . . . . [0m [38;5;253mAI-powered DJ system[0m
-[38;5;246mxxxxxxxxxxxx.. ...::::::::::::::;;;;;;;::::::::;xxxxxxxx[0m   [38;5;239m. [38;5;84mV3RSUS:[0m [38;5;239m. . . . . . . . . . . . . . . . . . . . [0m [38;5;253mMMA fight predictor[0m
-[38;5;246mxxxxxxxxxxxx;:  ...::::::::..  .  ...::::::::xxxxxxxxxxx[0m   [38;5;239m. [38;5;84mSTR1KE:[0m [38;5;239m. . . . . . . . . . . . . . . . . . . . [0m [38;5;253mstrike detection CV[0m
-[38;5;246mxxxxxxxxxxxxxxx....::::   .:+;X+#X+;. :::::::xxxxxxxxxxx[0m   [38;5;239m. [38;5;84mR1VER:[0m [38;5;239m. . . . . . . . . . . . . . . . . . . . . [0m [38;5;253mpoker intelligence[0m
-[38;5;246mxxxxxxxxxxxxxxx+  ...:::. .:::::::::.;;:::::xxxxxxxxxxxx[0m   [38;5;239m. [38;5;84mDR4FT:[0m [38;5;239m. . . . . . . . . . . . . . . . . . . . .[0m [38;5;253mAI resume optimizer[0m
-[38;5;246mxxxxxxxxxxxxxxxx    ..::::   . .   .:::::::;xxxxxxxxxxxx[0m   
-[38;5;246mxxxxxxxxxxxxxxxxx     :.::..  .  ..:::::::xxxxxxxxxxxxxx[0m   [38;5;239m- [1;38;5;117mAchievements[0m [38;5;239m───────────────────────────────────────────────────────[0m
-[38;5;246mxxxxxxxxxxxxxxxxxx     ..:::.....:::;:::::xxxxxxxxxxxxxx[0m   [38;5;239m. [38;5;212mUSAMO:[0m [38;5;239m. . . . . . . . . . . . . . . . . . . . . .[0m [38;5;253mHonorable Mention[0m
-[38;5;246mxxxxxxxxxxxxxxxxxx      .:::::::;;;;;;:.:;xxxxxxxxxxxxxx[0m   [38;5;239m. [38;5;212mPutnam:[0m [38;5;239m. . . . . . . . . . . . . . . . . . .[0m [38;5;253mCompetitor (Score: 22)[0m
-[38;5;246mxxxxxxxxxxxxxxxxxx..     .:::::::;:::.:::xxxxxxxxxxxxxxx[0m   [38;5;239m. [38;5;212mAMC 10/12:[0m [38;5;239m. . . . . . . . . . . . . . . .[0m [38;5;253mDistinguished HR (Top 1%)[0m
-[38;5;246mxxxxxxxxxxxxxxxxx+.....      ..:....:::::xxxxxxxxxxxxxxx[0m   [38;5;239m. [38;5;212mQuestbridge:[0m [38;5;239m. . . . . . . . . . . . . . . . . [0m [38;5;253mCollege Prep Scholar[0m
-[38;5;246mxxxxxxxxxxxxxxxx$X:.:.:...       .::::::;xxxxxxxxxxxxxxx[0m   [38;5;239m. [38;5;212mEagle Scout:[0m [38;5;239m. . . . . . . . . . . . . . . . . . . . . . . . . .[0m [38;5;253mBSA[0m
-[38;5;246mxxxxxxxxxxxx;X&&$XX:::::::::.......:::::xxxxxxxxxxxxxxxx[0m   [38;5;239m. [38;5;212mSIG Poker:[0m [38;5;239m. . . . . . . . . . . . . . . . . . . . . . . . [0m [38;5;253mFinalist[0m
-[38;5;246mxxxxxxxxx     :&$&$Xx:::::::::.:::..::::xX    :xxxxxxxxx[0m   [38;5;239m. [38;5;212mIMC Poker:[0m [38;5;239m. . . . . . . . . . . . . . . . .[0m [38;5;253mFinalist (Top 9 of 250)[0m
-[38;5;246mxxxxxx;        ;&&$$XX;::::::::::::::::::X&:       xxxxx[0m   [38;5;239m. [38;5;212mChess.com:[0m [38;5;239m. . . . . . . . . . . . . . . . . . . . . . . . [0m [38;5;253m2100 ELO[0m
-[38;5;246mxxx:            +&&&&$$X;::::::::::::::. :&&&:       xxx[0m   
-[38;5;246m&&$              $&&&&&$$X:::::::::::;::  X&&&$       Xx[0m   [38;5;239m- [1;38;5;117mContact[0m [38;5;239m────────────────────────────────────────────────────────────[0m
-[38;5;246m                                                        [0m   [38;5;239m. [38;5;141mEmail:[0m [38;5;239m. . . . . . . . . . . . . . . . . . . . [0m [38;5;253mcontact@thomasou.com[0m
-[38;5;246m                                                        [0m   [38;5;239m. [38;5;141mWebsite:[0m [38;5;239m. . . . . . . . . . . . . . . . . . . . . . . [0m [38;5;253mthomasou.com[0m
-[38;5;246m                                                        [0m   [38;5;239m. [38;5;141mLinkedIn:[0m [38;5;239m. . . . . . . . . . . . . . . . . . . . . . . . [0m [38;5;253mthomasou0[0m
-[38;5;246m                                                        [0m   [38;5;239m. [38;5;141mGitHub:[0m [38;5;239m. . . . . . . . . . . . . . . . . . . . . . . .[0m [38;5;253mSmokeyBear10[0m
-[38;5;246m                                                        [0m   [38;5;239m. [38;5;141mInstagram:[0m [38;5;239m. . . . . . . . . . . . . . . . . . . . . . . .[0m [38;5;253mtommy_ou_[0m
-[38;5;246m                                                        [0m   
-[38;5;246m                                                        [0m   [38;5;239m- [1;38;5;117mStack[0m [38;5;239m──────────────────────────────────────────────────────────────[0m
-[38;5;246m                                                        [0m   [38;5;239m. [38;5;141mFrontend:[0m [38;5;239m. . . . . . . . . . . . . . . . .[0m [38;5;253mReact, Next.js, Tailwind[0m
-[38;5;246m                                                        [0m   [38;5;239m. [38;5;141mBackend:[0m [38;5;239m. . . . . . . . . . . . . . . . .[0m [38;5;253mFastAPI, Postgres, Docker[0m
-[38;5;246m                                                        [0m   [38;5;239m. [38;5;141mInfra:[0m [38;5;239m. . . . . . . . . . . . . . . . . . . .[0m [38;5;253mVercel, Fly.io, Linux[0m
-```
+<div align="center">
+<pre>
+<font color="#9aa3b8">xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</font>   <font color="#bd93f9">thomas@github</font> <font color="#6272a4">────────────────────────────────────────────────────────</font>
+<font color="#9aa3b8">xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</font>   
+<font color="#9aa3b8">xxxxxxxxxxxxxxxxxxxxxxx;         .+xxxxxxxxxxxxxxxxxxxxx</font>   <font color="#6272a4">.</font> <font color="#bd93f9">OS:</font> <font color="#6272a4">. . . . . . . . . . . . . . . . . . . . . . . . . </font> <font color="#f8f8f2">macOS Sequoia</font>
+<font color="#9aa3b8">xxxxxxxxxxxxxxxxxxxxx                  xxxxxxxxxxxxxxxxx</font>   <font color="#6272a4">.</font> <font color="#bd93f9">Uptime:</font> <font color="#6272a4">. . . . . . . . . . . . . . . . . . . . .</font> <font color="#f8f8f2">19 years, 4 months</font>
+<font color="#9aa3b8">xxxxxxxxxxxxxxxx                         :xxxxxxxxxxxxxx</font>   <font color="#6272a4">.</font> <font color="#bd93f9">Host:</font> <font color="#6272a4">. . . . . . . . . . . . . . . . . . . . . . .</font> <font color="#f8f8f2">Philadelphia, PA</font>
+<font color="#9aa3b8">xxxxxxxxxxxxx                               xxxxxxxxxxxx</font>   <font color="#6272a4">.</font> <font color="#bd93f9">Kernel:</font> <font color="#6272a4">. . . . . . . . . . . . . . . . . . . . . . .</font> <font color="#f8f8f2">TypeScript 5.x</font>
+<font color="#9aa3b8">xxxxxxxxxxx+                                 xxxxxxxxxxx</font>   <font color="#6272a4">.</font> <font color="#bd93f9">IDE:</font> <font color="#6272a4">. . . . . . . . . . . . . . . . . . . . . </font> <font color="#f8f8f2">Cursor + Claude Code</font>
+<font color="#9aa3b8">xxxxxxxxxx;                                   xxxxxxxxxx</font>   
+<font color="#9aa3b8">xxxxxxxxxx                ...                  xxxxxxxxx</font>   <font color="#6272a4">.</font> <font color="#bd93f9">Languages.Programming:</font> <font color="#6272a4">. . . . . . .</font> <font color="#f8f8f2">TypeScript, Python, Rust, OCaml</font>
+<font color="#9aa3b8">xxxxxxxxx                .::::..                xxxxxxxx</font>   <font color="#6272a4">.</font> <font color="#bd93f9">Languages.Frameworks:</font> <font color="#6272a4">. . . . . . .</font> <font color="#f8f8f2">React, Next.js, FastAPI, PyTorch</font>
+<font color="#9aa3b8">xxxxxxxxx                 .::::..               xxxxxxxx</font>   <font color="#6272a4">.</font> <font color="#bd93f9">Languages.Real:</font> <font color="#6272a4">. . . . . . . . . . . . . . . . . </font> <font color="#f8f8f2">English, Mandarin</font>
+<font color="#9aa3b8">xxxxxxxx+                   .:::.    .:.         xxxxxxx</font>   
+<font color="#9aa3b8">xxxxxxxx:             .. .. .::::..   .:::::     xxxxxxx</font>   <font color="#6272a4">.</font> <font color="#bd93f9">Interests.Fighting:</font> <font color="#6272a4">. . . . . . . . . . . . . . . . . .</font> <font color="#f8f8f2">Boxing, Judo</font>
+<font color="#9aa3b8">xxxxxxxxx        ..        ..:;;::.    .  .:.    xxxxxxx</font>   <font color="#6272a4">.</font> <font color="#bd93f9">Interests.Games:</font> <font color="#6272a4">. . . . . . . . . . . . . . . . . . . </font> <font color="#f8f8f2">Chess, Poker</font>
+<font color="#9aa3b8">xxxxxxxxx        ...     .::::;;::::::::;;;;:    xxxxxxx</font>   <font color="#6272a4">.</font> <font color="#bd93f9">Interests.Physical:</font> <font color="#6272a4">. . . . . . .</font> <font color="#f8f8f2">Powerlifting, Basketball, Marathon</font>
+<font color="#9aa3b8">xxxxxxxxx       ::;;::::::::::;+;;:;;;;++;+;;.   xxxxxxx</font>   <font color="#6272a4">.</font> <font color="#bd93f9">Interests.Outdoor:</font> <font color="#6272a4">. . . . . . . . . . . . . . . . . . . . .</font> <font color="#f8f8f2">Camping</font>
+<font color="#9aa3b8">xxxxxxxxxx     .::;;+;;;:::::;++;;;;::;;+++;::  :xxxxxxx</font>   
+<font color="#9aa3b8">xxxxxxxxxxx    .:::;:::...::.::::..:::.:::;:::..xxxxxxxx</font>   <font color="#6272a4">-</font> <font color="#8be9fd">Currently Shipping</font> <font color="#6272a4">─────────────────────────────────────────────────</font>
+<font color="#9aa3b8">xxxxxxxxxxx.   ..::::::::..     .::::;::::::::::xxxxxxxx</font>   <font color="#6272a4">.</font> <font color="#50fa7b">D4NCE:</font> <font color="#6272a4">. . . . . . . . . . . . . . . . . . . . </font> <font color="#f8f8f2">AI-powered DJ system</font>
+<font color="#9aa3b8">xxxxxxxxxxxx.. ...::::::::::::::;;;;;;;::::::::;xxxxxxxx</font>   <font color="#6272a4">.</font> <font color="#50fa7b">V3RSUS:</font> <font color="#6272a4">. . . . . . . . . . . . . . . . . . . . </font> <font color="#f8f8f2">MMA fight predictor</font>
+<font color="#9aa3b8">xxxxxxxxxxxx;:  ...::::::::..  .  ...::::::::xxxxxxxxxxx</font>   <font color="#6272a4">.</font> <font color="#50fa7b">STR1KE:</font> <font color="#6272a4">. . . . . . . . . . . . . . . . . . . . </font> <font color="#f8f8f2">strike detection CV</font>
+<font color="#9aa3b8">xxxxxxxxxxxxxxx....::::   .:+;X+#X+;. :::::::xxxxxxxxxxx</font>   <font color="#6272a4">.</font> <font color="#50fa7b">R1VER:</font> <font color="#6272a4">. . . . . . . . . . . . . . . . . . . . . </font> <font color="#f8f8f2">poker intelligence</font>
+<font color="#9aa3b8">xxxxxxxxxxxxxxx+  ...:::. .:::::::::.;;:::::xxxxxxxxxxxx</font>   <font color="#6272a4">.</font> <font color="#50fa7b">DR4FT:</font> <font color="#6272a4">. . . . . . . . . . . . . . . . . . . . .</font> <font color="#f8f8f2">AI resume optimizer</font>
+<font color="#9aa3b8">xxxxxxxxxxxxxxxx    ..::::   . .   .:::::::;xxxxxxxxxxxx</font>   
+<font color="#9aa3b8">xxxxxxxxxxxxxxxxx     :.::..  .  ..:::::::xxxxxxxxxxxxxx</font>   <font color="#6272a4">-</font> <font color="#8be9fd">Achievements</font> <font color="#6272a4">───────────────────────────────────────────────────────</font>
+<font color="#9aa3b8">xxxxxxxxxxxxxxxxxx     ..:::.....:::;:::::xxxxxxxxxxxxxx</font>   <font color="#6272a4">.</font> <font color="#ff79c6">USAMO:</font> <font color="#6272a4">. . . . . . . . . . . . . . . . . . . . . .</font> <font color="#f8f8f2">Honorable Mention</font>
+<font color="#9aa3b8">xxxxxxxxxxxxxxxxxx      .:::::::;;;;;;:.:;xxxxxxxxxxxxxx</font>   <font color="#6272a4">.</font> <font color="#ff79c6">Putnam:</font> <font color="#6272a4">. . . . . . . . . . . . . . . . . . .</font> <font color="#f8f8f2">Competitor (Score: 22)</font>
+<font color="#9aa3b8">xxxxxxxxxxxxxxxxxx..     .:::::::;:::.:::xxxxxxxxxxxxxxx</font>   <font color="#6272a4">.</font> <font color="#ff79c6">AMC 10/12:</font> <font color="#6272a4">. . . . . . . . . . . . . . . .</font> <font color="#f8f8f2">Distinguished HR (Top 1%)</font>
+<font color="#9aa3b8">xxxxxxxxxxxxxxxxx+.....      ..:....:::::xxxxxxxxxxxxxxx</font>   <font color="#6272a4">.</font> <font color="#ff79c6">Questbridge:</font> <font color="#6272a4">. . . . . . . . . . . . . . . . . </font> <font color="#f8f8f2">College Prep Scholar</font>
+<font color="#9aa3b8">xxxxxxxxxxxxxxxx$X:.:.:...       .::::::;xxxxxxxxxxxxxxx</font>   <font color="#6272a4">.</font> <font color="#ff79c6">Eagle Scout:</font> <font color="#6272a4">. . . . . . . . . . . . . . . . . . . . . . . . . .</font> <font color="#f8f8f2">BSA</font>
+<font color="#9aa3b8">xxxxxxxxxxxx;X&&$XX:::::::::.......:::::xxxxxxxxxxxxxxxx</font>   <font color="#6272a4">.</font> <font color="#ff79c6">SIG Poker:</font> <font color="#6272a4">. . . . . . . . . . . . . . . . . . . . . . . . </font> <font color="#f8f8f2">Finalist</font>
+<font color="#9aa3b8">xxxxxxxxx     :&$&$Xx:::::::::.:::..::::xX    :xxxxxxxxx</font>   <font color="#6272a4">.</font> <font color="#ff79c6">IMC Poker:</font> <font color="#6272a4">. . . . . . . . . . . . . . . . .</font> <font color="#f8f8f2">Finalist (Top 9 of 250)</font>
+<font color="#9aa3b8">xxxxxx;        ;&&$$XX;::::::::::::::::::X&:       xxxxx</font>   <font color="#6272a4">.</font> <font color="#ff79c6">Chess.com:</font> <font color="#6272a4">. . . . . . . . . . . . . . . . . . . . . . . . </font> <font color="#f8f8f2">2100 ELO</font>
+<font color="#9aa3b8">xxx:            +&&&&$$X;::::::::::::::. :&&&:       xxx</font>   
+<font color="#9aa3b8">&&$              $&&&&&$$X:::::::::::;::  X&&&$       Xx</font>   <font color="#6272a4">-</font> <font color="#8be9fd">Contact</font> <font color="#6272a4">────────────────────────────────────────────────────────────</font>
+<font color="#9aa3b8">                                                        </font>   <font color="#6272a4">.</font> <font color="#bd93f9">Email:</font> <font color="#6272a4">. . . . . . . . . . . . . . . . . . . . </font> <font color="#f8f8f2">contact@thomasou.com</font>
+<font color="#9aa3b8">                                                        </font>   <font color="#6272a4">.</font> <font color="#bd93f9">Website:</font> <font color="#6272a4">. . . . . . . . . . . . . . . . . . . . . . . </font> <font color="#f8f8f2">thomasou.com</font>
+<font color="#9aa3b8">                                                        </font>   <font color="#6272a4">.</font> <font color="#bd93f9">LinkedIn:</font> <font color="#6272a4">. . . . . . . . . . . . . . . . . . . . . . . . </font> <font color="#f8f8f2">thomasou0</font>
+<font color="#9aa3b8">                                                        </font>   <font color="#6272a4">.</font> <font color="#bd93f9">GitHub:</font> <font color="#6272a4">. . . . . . . . . . . . . . . . . . . . . . . .</font> <font color="#f8f8f2">SmokeyBear10</font>
+<font color="#9aa3b8">                                                        </font>   <font color="#6272a4">.</font> <font color="#bd93f9">Instagram:</font> <font color="#6272a4">. . . . . . . . . . . . . . . . . . . . . . . .</font> <font color="#f8f8f2">tommy_ou_</font>
+<font color="#9aa3b8">                                                        </font>   
+<font color="#9aa3b8">                                                        </font>   <font color="#6272a4">-</font> <font color="#8be9fd">Stack</font> <font color="#6272a4">──────────────────────────────────────────────────────────────</font>
+<font color="#9aa3b8">                                                        </font>   <font color="#6272a4">.</font> <font color="#bd93f9">Frontend:</font> <font color="#6272a4">. . . . . . . . . . . . . . . . .</font> <font color="#f8f8f2">React, Next.js, Tailwind</font>
+<font color="#9aa3b8">                                                        </font>   <font color="#6272a4">.</font> <font color="#bd93f9">Backend:</font> <font color="#6272a4">. . . . . . . . . . . . . . . . .</font> <font color="#f8f8f2">FastAPI, Postgres, Docker</font>
+<font color="#9aa3b8">                                                        </font>   <font color="#6272a4">.</font> <font color="#bd93f9">Infra:</font> <font color="#6272a4">. . . . . . . . . . . . . . . . . . . .</font> <font color="#f8f8f2">Vercel, Fly.io, Linux</font>
+</pre>
+</div>
 
 ---
 
