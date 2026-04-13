@@ -43,37 +43,27 @@ xxxxxxxxx                 .::::..               xxxxxxxx   . Languages.Real: . .
 xxxxxxxx+                   .:::.    .:.         xxxxxxx   
 xxxxxxxx:             .. .. .::::..   .:::::     xxxxxxx   . Interests.Fighting: . . . . . . . . . . . . . . . . . . Boxing, Judo
 xxxxxxxxx        ..        ..:;;::.    .  .:.    xxxxxxx   . Interests.Games: . . . . . . . . . . . . . . . . . . .  Chess, Poker
-xxxxxxxxx        ...     .::::;;::::::::;;;;:    xxxxxxx   . Interests.Physical: . . . . . . . Powerlifting, Basketball, Marathon
-xxxxxxxxx       ::;;::::::::::;+;;:;;;;++;+;;.   xxxxxxx   . Interests.Outdoor: . . . . . . . . . . . . . . . . . . . . . Camping
-xxxxxxxxxx     .::;;+;;;:::::;++;;;;::;;+++;::  :xxxxxxx   
-xxxxxxxxxxx    .:::;:::...::.::::..:::.:::;:::..xxxxxxxx   - Currently Shipping ─────────────────────────────────────────────────
-xxxxxxxxxxx.   ..::::::::..     .::::;::::::::::xxxxxxxx   . D4NCE: . . . . . . . . . . . . . . . . . . . .  AI-powered DJ system
-xxxxxxxxxxxx.. ...::::::::::::::;;;;;;;::::::::;xxxxxxxx   . V3RSUS: . . . . . . . . . . . . . . . . . . . .  MMA fight predictor
-xxxxxxxxxxxx;:  ...::::::::..  .  ...::::::::xxxxxxxxxxx   . STR1KE: . . . . . . . . . . . . . . . . . . . .  strike detection CV
-xxxxxxxxxxxxxxx....::::   .:+;X+#X+;. :::::::xxxxxxxxxxx   . R1VER: . . . . . . . . . . . . . . . . . . . . .  poker intelligence
-xxxxxxxxxxxxxxx+  ...:::. .:::::::::.;;:::::xxxxxxxxxxxx   . DR4FT: . . . . . . . . . . . . . . . . . . . . . AI resume optimizer
-xxxxxxxxxxxxxxxx    ..::::   . .   .:::::::;xxxxxxxxxxxx   
-xxxxxxxxxxxxxxxxx     :.::..  .  ..:::::::xxxxxxxxxxxxxx   - Achievements ───────────────────────────────────────────────────────
-xxxxxxxxxxxxxxxxxx     ..:::.....:::;:::::xxxxxxxxxxxxxx   . USAMO: . . . . . . . . . . . . . . . . . . . . . . Honorable Mention
-xxxxxxxxxxxxxxxxxx      .:::::::;;;;;;:.:;xxxxxxxxxxxxxx   . Putnam: . . . . . . . . . . . . . . . . . . . Competitor (Score: 22)
-xxxxxxxxxxxxxxxxxx..     .:::::::;:::.:::xxxxxxxxxxxxxxx   . AMC 10/12: . . . . . . . . . . . . . . . . Distinguished HR (Top 1%)
-xxxxxxxxxxxxxxxxx+.....      ..:....:::::xxxxxxxxxxxxxxx   . Questbridge: . . . . . . . . . . . . . . . . .  College Prep Scholar
-xxxxxxxxxxxxxxxx$X:.:.:...       .::::::;xxxxxxxxxxxxxxx   . Eagle Scout: . . . . . . . . . . . . . . . . . . . . . . . . . . BSA
-xxxxxxxxxxxx;X&&$XX:::::::::.......:::::xxxxxxxxxxxxxxxx   . SIG Poker: . . . . . . . . . . . . . . . . . . . . . . . .  Finalist
-xxxxxxxxx     :&$&$Xx:::::::::.:::..::::xX    :xxxxxxxxx   . IMC Poker: . . . . . . . . . . . . . . . . . Finalist (Top 9 of 250)
-xxxxxx;        ;&&$$XX;::::::::::::::::::X&:       xxxxx   . Chess.com: . . . . . . . . . . . . . . . . . . . . . . . .  2100 ELO
-xxx:            +&&&&$$X;::::::::::::::. :&&&:       xxx   
-&&$              $&&&&&$$X:::::::::::;::  X&&&$       Xx   - Contact ────────────────────────────────────────────────────────────
-                                                           . Email: . . . . . . . . . . . . . . . . . . . .  contact@thomasou.com
-                                                           . Website: . . . . . . . . . . . . . . . . . . . . . . .  thomasou.com
-                                                           . LinkedIn: . . . . . . . . . . . . . . . . . . . . . . . .  thomasou0
-                                                           . GitHub: . . . . . . . . . . . . . . . . . . . . . . . . SmokeyBear10
-                                                           . Instagram: . . . . . . . . . . . . . . . . . . . . . . . . tommy_ou_
-                                                           
-                                                           - Stack ──────────────────────────────────────────────────────────────
-                                                           . Frontend: . . . . . . . . . . . . . . . . . React, Next.js, Tailwind
-                                                           . Backend: . . . . . . . . . . . . . . . . . FastAPI, Postgres, Docker
-                                                           . Infra: . . . . . . . . . . . . . . . . . . . . Vercel, Fly.io, Linux
+xxxxxxxxx        ...     .::::;;::::::::;;;;:    xxxxxxx   . Interests.Physical: . .  Powerlifting, Basketball, Marathon, Camping
+xxxxxxxxx       ::;;::::::::::;+;;:;;;;++;+;;.   xxxxxxx   
+xxxxxxxxxx     .::;;+;;;:::::;++;;;;::;;+++;::  :xxxxxxx   - Currently Shipping ─────────────────────────────────────────────────
+xxxxxxxxxxx    .:::;:::...::.::::..:::.:::;:::..xxxxxxxx   . D4NCE: . . . . . . . . . . . . . . . . . . . .  AI-powered DJ system
+xxxxxxxxxxx.   ..::::::::..     .::::;::::::::::xxxxxxxx   . V3RSUS: . . . . . . . . . . . . . . . . . . . .  MMA fight predictor
+xxxxxxxxxxxx.. ...::::::::::::::;;;;;;;::::::::;xxxxxxxx   . STR1KE: . . . . . . . . . . . . . . . . . . . .  strike detection CV
+xxxxxxxxxxxx;:  ...::::::::..  .  ...::::::::xxxxxxxxxxx   . R1VER: . . . . . . . . . . . . . . . . . . . . .  poker intelligence
+xxxxxxxxxxxxxxx....::::   .:+;X+#X+;. :::::::xxxxxxxxxxx   . DR4FT: . . . . . . . . . . . . . . . . . . . . . AI resume optimizer
+xxxxxxxxxxxxxxx+  ...:::. .:::::::::.;;:::::xxxxxxxxxxxx   
+xxxxxxxxxxxxxxxx    ..::::   . .   .:::::::;xxxxxxxxxxxx   - Achievements ───────────────────────────────────────────────────────
+xxxxxxxxxxxxxxxxx     :.::..  .  ..:::::::xxxxxxxxxxxxxx   . Math: . . . . . . . .  USAMO HM · Putnam 22 · AMC 10/12 DHR (Top 1%)
+xxxxxxxxxxxxxxxxxx     ..:::.....:::;:::::xxxxxxxxxxxxxx   . Scholar: . . . . . . . . . . . . . . . Questbridge CPS · Eagle Scout
+xxxxxxxxxxxxxxxxxx      .:::::::;;;;;;:.:;xxxxxxxxxxxxxx   . Poker: . . . . . . . . . . . SIG Finalist · IMC Finalist (Top 9/250)
+xxxxxxxxxxxxxxxxxx..     .:::::::;:::.:::xxxxxxxxxxxxxxx   . Chess: . . . . . . . . . . . . . . . . . . . . .  Chess.com 2100 ELO
+xxxxxxxxxxxxxxxxx+.....      ..:....:::::xxxxxxxxxxxxxxx   
+xxxxxxxxxxxxxxxx$X:.:.:...       .::::::;xxxxxxxxxxxxxxx   - Contact ────────────────────────────────────────────────────────────
+xxxxxxxxxxxx;X&&$XX:::::::::.......:::::xxxxxxxxxxxxxxxx   . Email: . . . . . . . . . . . . . . . . . . . .  contact@thomasou.com
+xxxxxxxxx     :&$&$Xx:::::::::.:::..::::xX    :xxxxxxxxx   . Website: . . . . . . . . . . . . . . . . . . . . . . .  thomasou.com
+xxxxxx;        ;&&$$XX;::::::::::::::::::X&:       xxxxx   . LinkedIn: . . . . . . . . . . . . . . . . . . . . . . . .  thomasou0
+xxx:            +&&&&$$X;::::::::::::::. :&&&:       xxx   . GitHub: . . . . . . . . . . . . . . . . . . . . . . . . SmokeyBear10
+&&$              $&&&&&$$X:::::::::::;::  X&&&$       Xx   . Instagram: . . . . . . . . . . . . . . . . . . . . . . . . tommy_ou_
 </pre>
 </div>
 
