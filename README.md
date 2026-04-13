@@ -4,6 +4,12 @@
 
 # Hi there, I'm Thomas Ou
 
+<div align="center">
+  <a href="https://thomasou.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7DCFFF&center=true&vCenter=true&width=700&height=50&lines=Fullstack+engineer+-+TS%2C+React%2C+Python;MMA+fighter+%26+ML+enthusiast;Shipping+D4NCE%2C+V3RSUS%2C+R1VER;Ships+fast.+Iterates+faster." alt="typing animation" />
+  </a>
+</div>
+
 <table width="120" align="center">
   <tr>
     <td align="center" width="60">
@@ -48,11 +54,11 @@ impl ThomasOu {
 
     fn current_projects(&self) -> Vec<&'static str> {
         vec![
-            "🎧 D4NCE — AI-Powered DJ System",
-            "🥊 V3RSUS — MMA Predictive Analytics",
-            "👁️ STR1KE — MMA Strike Detection",
-            "♠️ R1VER — Poker Intelligence",
-            "📄 DR4FT — AI Resume Optimizer"
+            "D4NCE — AI-Powered DJ System",
+            "V3RSUS — MMA Predictive Analytics",
+            "STR1KE — MMA Strike Detection",
+            "R1VER — Poker Intelligence",
+            "DR4FT — AI Resume Optimizer"
         ]
     }
 }
@@ -60,41 +66,79 @@ impl ThomasOu {
 
 ---
 
-## Tech Stack
+## Currently Shipping
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white" alt="OCaml" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Excel_VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel VBA" />
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### <a href="https://github.com/SmokeyBear10/D4NCE">D4NCE</a>
+**AI-Powered DJ System**
+
+Browser-based dual-deck DJ with AI mixing. Talk to it in plain English and it handles transitions, EQ, beat matching, and effect chains.
+
+</td>
+<td width="50%" valign="top">
+
+### <a href="https://github.com/SmokeyBear10/MMA-Predictor">V3RSUS</a>
+**MMA Predictive Analytics**
+
+Ensemble ML engine predicting UFC fight outcomes across 6,500+ historical bouts and 35 stat dimensions.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### <a href="https://github.com/SmokeyBear10/MMA-Strike-Detection">STR1KE</a>
+**MMA Strike Detection**
+
+Computer vision pipeline classifying 5-frame windows of MMA footage as strike or neutral in real time.
+
+</td>
+<td width="50%" valign="top">
+
+### <a href="https://github.com/SmokeyBear10/002-CORE.R1VER">R1VER</a>
+**Poker Intelligence**
+
+Rust solver + Next.js frontend pursuing parity with Pluribus via Monte Carlo CFR on a blueprint abstraction.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### <a href="https://github.com/SmokeyBear10/SmartCV">DR4FT</a>
+**AI Resume Optimizer**
+
+NLP + Gemini beats ATS systems, surfaces skill gaps, and generates optimized resumes from scratch.
+
+</td>
+<td width="50%" valign="top">
+
+### <a href="https://github.com/SmokeyBear10/Paint">PAINT.ML</a>
+**OCaml GUI Framework**
+
+OCaml compiled to the browser via js_of_ocaml. Editorial landing page with three interactive demos.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Spotify Playing
+## Contribution Activity
 
 <div align="center">
-  <a href="https://open.spotify.com/user/qyuqt7mpf9rl0h4culvha3f0c?si=a765a906bdbe47a4">
-    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SmokeyBear10/SmokeyBear10/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SmokeyBear10/SmokeyBear10/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SmokeyBear10/SmokeyBear10/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SmokeyBear10&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -102,14 +146,24 @@ impl ThomasOu {
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SmokeyBear10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SmokeyBear10&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SmokeyBear10&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SmokeyBear10&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmokeyBear10&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmokeyBear10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SmokeyBear10&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies" />
 </div>
 
+---
+
+## Currently Listening
+
+<div align="center">
+  <a href="https://open.spotify.com/user/qyuqt7mpf9rl0h4culvha3f0c?si=a765a906bdbe47a4">
+    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify" />
+  </a>
+</div>
