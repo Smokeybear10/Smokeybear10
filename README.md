@@ -28,84 +28,43 @@
 </table>
 
 <div align="center">
-<table>
-<tr>
-<td valign="top"><pre>
-                                                        
-                                                        
-                       ;         .+                     
-                                                        
-                                         :              
-                                                        
-           +                                            
-          ;                                             
-                          ...                           
-                         .::::..                        
-                          .::::..                       
-        +                   .:::.    .:.                
-        :             .. .. .::::..   .:::::            
-                 ..        ..:;;::.    .  .:.           
-                 ...     .::::;;::::::::;;;;:           
-                ::;;::::::::::;+;;:;;;;++;+;;.          
-               .::;;+;;;:::::;++;;;;::;;+++;::  :       
-               .:::;:::...::.::::..:::.:::;:::..        
-           .   ..::::::::..     .::::;::::::::::        
-            .. ...::::::::::::::;;;;;;;::::::::;        
-            ;:  ...::::::::..  .  ...::::::::           
-               ....::::   .:+;X+#X+;. :::::::           
-               +  ...:::. .:::::::::.;;:::::            
-                    ..::::   . .   .:::::::;            
-                      :.::..  .  ..:::::::              
-                       ..:::.....:::;:::::              
-                        .:::::::;;;;;;:.:;              
-                  ..     .:::::::;:::.:::               
-                 +.....      ..:....:::::               
-                $X:.:.:...       .::::::;               
-            ;X&&$XX:::::::::.......:::::                
-              :&$&$X :::::::::.:::..:::: X    :         
-      ;        ;&&$$XX;::::::::::::::::::X&:            
-   :            +&&&&$$X;::::::::::::::. :&&&:          
-&&$              $&&&&&$$X:::::::::::;::  X&&&$       X 
-</pre></td>
-<td valign="top"><pre>
-thomas@github
-─────────────
-
-OS         macOS Sequoia
-Host       Philadelphia, PA
-Kernel     TypeScript 5.x
-Uptime     since 2006
-Shell      zsh + fish
-Editor     Cursor
-Theme      Dracula
-
-Languages
-─────────
-TypeScript  ████████████░
-Python      ███████████░░
-Rust        ███████░░░░░░
-OCaml       ████░░░░░░░░░
-
-Currently shipping
-──────────────────
-D4NCE     AI-powered DJ
-V3RSUS    MMA fight predictor
-STR1KE    strike detection CV
-R1VER     poker intelligence
-DR4FT     resume optimizer
-
-Stack
-─────
-React · Next.js · Tailwind
-FastAPI · Postgres · Docker
-PyTorch · TensorFlow
-
-Fighter
-───────
-MMA · GTO poker · fight film
-</pre></td>
-</tr>
-</table>
+<pre>
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   thomas@github ──────────────────────────────────────────────────────
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxx;         .+xxxxxxxxxxxxxxxxxxxxx   . OS: . . . . . . . . . . . . . . . . . . . . . . . .  macOS Sequoia
+xxxxxxxxxxxxxxxxxxxxx                  xxxxxxxxxxxxxxxxx   . Uptime: . . . . . . . . . . . . . . . . . . . . 19 years, 4 months
+xxxxxxxxxxxxxxxx                         :xxxxxxxxxxxxxx   . Host: . . . . . . . . . . . . . . . . . . . . . . Philadelphia, PA
+xxxxxxxxxxxxx                               xxxxxxxxxxxx   . Kernel: . . . . . . . . . . . . . . . . . . . . . . TypeScript 5.x
+xxxxxxxxxxx+                                 xxxxxxxxxxx   . IDE: . . . . . . . . . . . . . . . . . . . .  Cursor + Claude Code
+xxxxxxxxxx;                                   xxxxxxxxxx   . Theme: . . . . . . . . . . . . . . . . . . . . . . . . . . Dracula
+xxxxxxxxxx                ...                  xxxxxxxxx
+xxxxxxxxx                .::::..                xxxxxxxx   . Languages.Programming: . . . . . . TypeScript, Python, Rust, OCaml
+xxxxxxxxx                 .::::..               xxxxxxxx   . Languages.Frameworks: . . . . . . React, Next.js, FastAPI, PyTorch
+xxxxxxxx+                   .:::.    .:.         xxxxxxx   . Languages.Real: . . . . . . . . . . . . . . . .  English, Mandarin
+xxxxxxxx:             .. .. .::::..   .:::::     xxxxxxx
+xxxxxxxxx        ..        ..:;;::.    .  .:.    xxxxxxx   . Interests.Fighting: . . . . . . . . . . MMA, BJJ, fight film study
+xxxxxxxxx        ...     .::::;;::::::::;;;;:    xxxxxxx   . Interests.Theory: . . . . . . . . . . . .  game theory, CFR, poker
+xxxxxxxxx       ::;;::::::::::;+;;:;;;;++;+;;.   xxxxxxx   . Interests.Music: . . . . . . . . . . . . . . . . DJing, production
+xxxxxxxxxx     .::;;+;;;:::::;++;;;;::;;+++;::  :xxxxxxx
+xxxxxxxxxxx    .:::;:::...::.::::..:::.:::;:::..xxxxxxxx   - Currently Shipping ───────────────────────────────────────────────
+xxxxxxxxxxx.   ..::::::::..     .::::;::::::::::xxxxxxxx   . D4NCE: . . . . . . . . . . . . . . . . . . .  AI-powered DJ system
+xxxxxxxxxxxx.. ...::::::::::::::;;;;;;;::::::::;xxxxxxxx   . V3RSUS: . . . . . . . . . . . . . . . . . . .  MMA fight predictor
+xxxxxxxxxxxx;:  ...::::::::..  .  ...::::::::xxxxxxxxxxx   . STR1KE: . . . . . . . . . . . . . . . . . . .  strike detection CV
+xxxxxxxxxxxxxxx....::::   .:+;X+#X+;. :::::::xxxxxxxxxxx   . R1VER: . . . . . . . . . . . . . . . . . . . .  poker intelligence
+xxxxxxxxxxxxxxx+  ...:::. .:::::::::.;;:::::xxxxxxxxxxxx   . DR4FT: . . . . . . . . . . . . . . . . . . . . AI resume optimizer
+xxxxxxxxxxxxxxxx    ..::::   . .   .:::::::;xxxxxxxxxxxx
+xxxxxxxxxxxxxxxxx     :.::..  .  ..:::::::xxxxxxxxxxxxxx   - Contact ──────────────────────────────────────────────────────────
+xxxxxxxxxxxxxxxxxx     ..:::.....:::;:::::xxxxxxxxxxxxxx   . Email: . . . . . . . . . . . . . . . . . . .  contact@thomasou.com
+xxxxxxxxxxxxxxxxxx      .:::::::;;;;;;:.:;xxxxxxxxxxxxxx   . Website: . . . . . . . . . . . . . . . . . . . . . .  thomasou.com
+xxxxxxxxxxxxxxxxxx..     .:::::::;:::.:::xxxxxxxxxxxxxxx   . LinkedIn: . . . . . . . . . . . . . . . . . . . . . . .  thomasou0
+xxxxxxxxxxxxxxxxx+.....      ..:....:::::xxxxxxxxxxxxxxx   . GitHub: . . . . . . . . . . . . . . . . . . . . . . . SmokeyBear10
+xxxxxxxxxxxxxxxx$X:.:.:...       .::::::;xxxxxxxxxxxxxxx   . Instagram: . . . . . . . . . . . . . . . . . . . . . . . tommy_ou_
+xxxxxxxxxxxx;X&&$XX:::::::::.......:::::xxxxxxxxxxxxxxxx
+xxxxxxxxx     :&$&$Xx:::::::::.:::..::::xX    :xxxxxxxxx   - Stack ────────────────────────────────────────────────────────────
+xxxxxx;        ;&&$$XX;::::::::::::::::::X&:       xxxxx   . Frontend: . . . . . . . . . . . . . . . . React, Next.js, Tailwind
+xxx:            +&&&&$$X;::::::::::::::. :&&&:       xxx   . Backend: . . . . . . . . . . . . . . . . FastAPI, Postgres, Docker
+&&$              $&&&&&$$X:::::::::::;::  X&&&$       Xx   . Infra: . . . . . . . . . . . . . . . . . . . Vercel, Fly.io, Linux
+</pre>
 </div>
 
 ---
