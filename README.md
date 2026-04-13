@@ -27,45 +27,53 @@
   </tr>
 </table>
 
-<div align="center">
-<pre>
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   thomas@github ──────────────────────────────────────────────────────
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxx;         .+xxxxxxxxxxxxxxxxxxxxx   . OS: . . . . . . . . . . . . . . . . . . . . . . . .  macOS Sequoia
-xxxxxxxxxxxxxxxxxxxxx                  xxxxxxxxxxxxxxxxx   . Uptime: . . . . . . . . . . . . . . . . . . . . 19 years, 4 months
-xxxxxxxxxxxxxxxx                         :xxxxxxxxxxxxxx   . Host: . . . . . . . . . . . . . . . . . . . . . . Philadelphia, PA
-xxxxxxxxxxxxx                               xxxxxxxxxxxx   . Kernel: . . . . . . . . . . . . . . . . . . . . . . TypeScript 5.x
-xxxxxxxxxxx+                                 xxxxxxxxxxx   . IDE: . . . . . . . . . . . . . . . . . . . .  Cursor + Claude Code
-xxxxxxxxxx;                                   xxxxxxxxxx   . Theme: . . . . . . . . . . . . . . . . . . . . . . . . . . Dracula
-xxxxxxxxxx                ...                  xxxxxxxxx
-xxxxxxxxx                .::::..                xxxxxxxx   . Languages.Programming: . . . . . . TypeScript, Python, Rust, OCaml
-xxxxxxxxx                 .::::..               xxxxxxxx   . Languages.Frameworks: . . . . . . React, Next.js, FastAPI, PyTorch
-xxxxxxxx+                   .:::.    .:.         xxxxxxx   . Languages.Real: . . . . . . . . . . . . . . . .  English, Mandarin
-xxxxxxxx:             .. .. .::::..   .:::::     xxxxxxx
-xxxxxxxxx        ..        ..:;;::.    .  .:.    xxxxxxx   . Interests.Fighting: . . . . . . . . . . MMA, BJJ, fight film study
-xxxxxxxxx        ...     .::::;;::::::::;;;;:    xxxxxxx   . Interests.Theory: . . . . . . . . . . . .  game theory, CFR, poker
-xxxxxxxxx       ::;;::::::::::;+;;:;;;;++;+;;.   xxxxxxx   . Interests.Music: . . . . . . . . . . . . . . . . DJing, production
-xxxxxxxxxx     .::;;+;;;:::::;++;;;;::;;+++;::  :xxxxxxx
-xxxxxxxxxxx    .:::;:::...::.::::..:::.:::;:::..xxxxxxxx   - Currently Shipping ───────────────────────────────────────────────
-xxxxxxxxxxx.   ..::::::::..     .::::;::::::::::xxxxxxxx   . D4NCE: . . . . . . . . . . . . . . . . . . .  AI-powered DJ system
-xxxxxxxxxxxx.. ...::::::::::::::;;;;;;;::::::::;xxxxxxxx   . V3RSUS: . . . . . . . . . . . . . . . . . . .  MMA fight predictor
-xxxxxxxxxxxx;:  ...::::::::..  .  ...::::::::xxxxxxxxxxx   . STR1KE: . . . . . . . . . . . . . . . . . . .  strike detection CV
-xxxxxxxxxxxxxxx....::::   .:+;X+#X+;. :::::::xxxxxxxxxxx   . R1VER: . . . . . . . . . . . . . . . . . . . .  poker intelligence
-xxxxxxxxxxxxxxx+  ...:::. .:::::::::.;;:::::xxxxxxxxxxxx   . DR4FT: . . . . . . . . . . . . . . . . . . . . AI resume optimizer
-xxxxxxxxxxxxxxxx    ..::::   . .   .:::::::;xxxxxxxxxxxx
-xxxxxxxxxxxxxxxxx     :.::..  .  ..:::::::xxxxxxxxxxxxxx   - Contact ──────────────────────────────────────────────────────────
-xxxxxxxxxxxxxxxxxx     ..:::.....:::;:::::xxxxxxxxxxxxxx   . Email: . . . . . . . . . . . . . . . . . . .  contact@thomasou.com
-xxxxxxxxxxxxxxxxxx      .:::::::;;;;;;:.:;xxxxxxxxxxxxxx   . Website: . . . . . . . . . . . . . . . . . . . . . .  thomasou.com
-xxxxxxxxxxxxxxxxxx..     .:::::::;:::.:::xxxxxxxxxxxxxxx   . LinkedIn: . . . . . . . . . . . . . . . . . . . . . . .  thomasou0
-xxxxxxxxxxxxxxxxx+.....      ..:....:::::xxxxxxxxxxxxxxx   . GitHub: . . . . . . . . . . . . . . . . . . . . . . . SmokeyBear10
-xxxxxxxxxxxxxxxx$X:.:.:...       .::::::;xxxxxxxxxxxxxxx   . Instagram: . . . . . . . . . . . . . . . . . . . . . . . tommy_ou_
-xxxxxxxxxxxx;X&&$XX:::::::::.......:::::xxxxxxxxxxxxxxxx
-xxxxxxxxx     :&$&$Xx:::::::::.:::..::::xX    :xxxxxxxxx   - Stack ────────────────────────────────────────────────────────────
-xxxxxx;        ;&&$$XX;::::::::::::::::::X&:       xxxxx   . Frontend: . . . . . . . . . . . . . . . . React, Next.js, Tailwind
-xxx:            +&&&&$$X;::::::::::::::. :&&&:       xxx   . Backend: . . . . . . . . . . . . . . . . FastAPI, Postgres, Docker
-&&$              $&&&&&$$X:::::::::::;::  X&&&$       Xx   . Infra: . . . . . . . . . . . . . . . . . . . Vercel, Fly.io, Linux
-</pre>
-</div>
+```ansi
+[38;5;246mxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx[0m   [1;38;5;141mthomas@github[0m [38;5;239m────────────────────────────────────────────────────────[0m
+[38;5;246mxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx[0m   
+[38;5;246mxxxxxxxxxxxxxxxxxxxxxxx;         .+xxxxxxxxxxxxxxxxxxxxx[0m   [38;5;239m. [38;5;141mOS:[0m [38;5;239m. . . . . . . . . . . . . . . . . . . . . . . . . [0m [38;5;253mmacOS Sequoia[0m
+[38;5;246mxxxxxxxxxxxxxxxxxxxxx                  xxxxxxxxxxxxxxxxx[0m   [38;5;239m. [38;5;141mUptime:[0m [38;5;239m. . . . . . . . . . . . . . . . . . . . .[0m [38;5;253m19 years, 4 months[0m
+[38;5;246mxxxxxxxxxxxxxxxx                         :xxxxxxxxxxxxxx[0m   [38;5;239m. [38;5;141mHost:[0m [38;5;239m. . . . . . . . . . . . . . . . . . . . . . .[0m [38;5;253mPhiladelphia, PA[0m
+[38;5;246mxxxxxxxxxxxxx                               xxxxxxxxxxxx[0m   [38;5;239m. [38;5;141mKernel:[0m [38;5;239m. . . . . . . . . . . . . . . . . . . . . . .[0m [38;5;253mTypeScript 5.x[0m
+[38;5;246mxxxxxxxxxxx+                                 xxxxxxxxxxx[0m   [38;5;239m. [38;5;141mIDE:[0m [38;5;239m. . . . . . . . . . . . . . . . . . . . . [0m [38;5;253mCursor + Claude Code[0m
+[38;5;246mxxxxxxxxxx;                                   xxxxxxxxxx[0m   
+[38;5;246mxxxxxxxxxx                ...                  xxxxxxxxx[0m   [38;5;239m. [38;5;141mLanguages.Programming:[0m [38;5;239m. . . . . . .[0m [38;5;253mTypeScript, Python, Rust, OCaml[0m
+[38;5;246mxxxxxxxxx                .::::..                xxxxxxxx[0m   [38;5;239m. [38;5;141mLanguages.Frameworks:[0m [38;5;239m. . . . . . .[0m [38;5;253mReact, Next.js, FastAPI, PyTorch[0m
+[38;5;246mxxxxxxxxx                 .::::..               xxxxxxxx[0m   [38;5;239m. [38;5;141mLanguages.Real:[0m [38;5;239m. . . . . . . . . . . . . . . . . [0m [38;5;253mEnglish, Mandarin[0m
+[38;5;246mxxxxxxxx+                   .:::.    .:.         xxxxxxx[0m   
+[38;5;246mxxxxxxxx:             .. .. .::::..   .:::::     xxxxxxx[0m   [38;5;239m. [38;5;141mInterests.Fighting:[0m [38;5;239m. . . . . . . . . . . . . . . . . .[0m [38;5;253mBoxing, Judo[0m
+[38;5;246mxxxxxxxxx        ..        ..:;;::.    .  .:.    xxxxxxx[0m   [38;5;239m. [38;5;141mInterests.Games:[0m [38;5;239m. . . . . . . . . . . . . . . . . . . [0m [38;5;253mChess, Poker[0m
+[38;5;246mxxxxxxxxx        ...     .::::;;::::::::;;;;:    xxxxxxx[0m   [38;5;239m. [38;5;141mInterests.Physical:[0m [38;5;239m. . . . . . .[0m [38;5;253mPowerlifting, Basketball, Marathon[0m
+[38;5;246mxxxxxxxxx       ::;;::::::::::;+;;:;;;;++;+;;.   xxxxxxx[0m   [38;5;239m. [38;5;141mInterests.Outdoor:[0m [38;5;239m. . . . . . . . . . . . . . . . . . . . .[0m [38;5;253mCamping[0m
+[38;5;246mxxxxxxxxxx     .::;;+;;;:::::;++;;;;::;;+++;::  :xxxxxxx[0m   
+[38;5;246mxxxxxxxxxxx    .:::;:::...::.::::..:::.:::;:::..xxxxxxxx[0m   [38;5;239m- [1;38;5;117mCurrently Shipping[0m [38;5;239m─────────────────────────────────────────────────[0m
+[38;5;246mxxxxxxxxxxx.   ..::::::::..     .::::;::::::::::xxxxxxxx[0m   [38;5;239m. [38;5;84mD4NCE:[0m [38;5;239m. . . . . . . . . . . . . . . . . . . . [0m [38;5;253mAI-powered DJ system[0m
+[38;5;246mxxxxxxxxxxxx.. ...::::::::::::::;;;;;;;::::::::;xxxxxxxx[0m   [38;5;239m. [38;5;84mV3RSUS:[0m [38;5;239m. . . . . . . . . . . . . . . . . . . . [0m [38;5;253mMMA fight predictor[0m
+[38;5;246mxxxxxxxxxxxx;:  ...::::::::..  .  ...::::::::xxxxxxxxxxx[0m   [38;5;239m. [38;5;84mSTR1KE:[0m [38;5;239m. . . . . . . . . . . . . . . . . . . . [0m [38;5;253mstrike detection CV[0m
+[38;5;246mxxxxxxxxxxxxxxx....::::   .:+;X+#X+;. :::::::xxxxxxxxxxx[0m   [38;5;239m. [38;5;84mR1VER:[0m [38;5;239m. . . . . . . . . . . . . . . . . . . . . [0m [38;5;253mpoker intelligence[0m
+[38;5;246mxxxxxxxxxxxxxxx+  ...:::. .:::::::::.;;:::::xxxxxxxxxxxx[0m   [38;5;239m. [38;5;84mDR4FT:[0m [38;5;239m. . . . . . . . . . . . . . . . . . . . .[0m [38;5;253mAI resume optimizer[0m
+[38;5;246mxxxxxxxxxxxxxxxx    ..::::   . .   .:::::::;xxxxxxxxxxxx[0m   
+[38;5;246mxxxxxxxxxxxxxxxxx     :.::..  .  ..:::::::xxxxxxxxxxxxxx[0m   [38;5;239m- [1;38;5;117mAchievements[0m [38;5;239m───────────────────────────────────────────────────────[0m
+[38;5;246mxxxxxxxxxxxxxxxxxx     ..:::.....:::;:::::xxxxxxxxxxxxxx[0m   [38;5;239m. [38;5;212mUSAMO:[0m [38;5;239m. . . . . . . . . . . . . . . . . . . . . .[0m [38;5;253mHonorable Mention[0m
+[38;5;246mxxxxxxxxxxxxxxxxxx      .:::::::;;;;;;:.:;xxxxxxxxxxxxxx[0m   [38;5;239m. [38;5;212mPutnam:[0m [38;5;239m. . . . . . . . . . . . . . . . . . .[0m [38;5;253mCompetitor (Score: 22)[0m
+[38;5;246mxxxxxxxxxxxxxxxxxx..     .:::::::;:::.:::xxxxxxxxxxxxxxx[0m   [38;5;239m. [38;5;212mAMC 10/12:[0m [38;5;239m. . . . . . . . . . . . . . . .[0m [38;5;253mDistinguished HR (Top 1%)[0m
+[38;5;246mxxxxxxxxxxxxxxxxx+.....      ..:....:::::xxxxxxxxxxxxxxx[0m   [38;5;239m. [38;5;212mQuestbridge:[0m [38;5;239m. . . . . . . . . . . . . . . . . [0m [38;5;253mCollege Prep Scholar[0m
+[38;5;246mxxxxxxxxxxxxxxxx$X:.:.:...       .::::::;xxxxxxxxxxxxxxx[0m   [38;5;239m. [38;5;212mEagle Scout:[0m [38;5;239m. . . . . . . . . . . . . . . . . . . . . . . . . .[0m [38;5;253mBSA[0m
+[38;5;246mxxxxxxxxxxxx;X&&$XX:::::::::.......:::::xxxxxxxxxxxxxxxx[0m   [38;5;239m. [38;5;212mSIG Poker:[0m [38;5;239m. . . . . . . . . . . . . . . . . . . . . . . . [0m [38;5;253mFinalist[0m
+[38;5;246mxxxxxxxxx     :&$&$Xx:::::::::.:::..::::xX    :xxxxxxxxx[0m   [38;5;239m. [38;5;212mIMC Poker:[0m [38;5;239m. . . . . . . . . . . . . . . . .[0m [38;5;253mFinalist (Top 9 of 250)[0m
+[38;5;246mxxxxxx;        ;&&$$XX;::::::::::::::::::X&:       xxxxx[0m   [38;5;239m. [38;5;212mChess.com:[0m [38;5;239m. . . . . . . . . . . . . . . . . . . . . . . . [0m [38;5;253m2100 ELO[0m
+[38;5;246mxxx:            +&&&&$$X;::::::::::::::. :&&&:       xxx[0m   
+[38;5;246m&&$              $&&&&&$$X:::::::::::;::  X&&&$       Xx[0m   [38;5;239m- [1;38;5;117mContact[0m [38;5;239m────────────────────────────────────────────────────────────[0m
+[38;5;246m                                                        [0m   [38;5;239m. [38;5;141mEmail:[0m [38;5;239m. . . . . . . . . . . . . . . . . . . . [0m [38;5;253mcontact@thomasou.com[0m
+[38;5;246m                                                        [0m   [38;5;239m. [38;5;141mWebsite:[0m [38;5;239m. . . . . . . . . . . . . . . . . . . . . . . [0m [38;5;253mthomasou.com[0m
+[38;5;246m                                                        [0m   [38;5;239m. [38;5;141mLinkedIn:[0m [38;5;239m. . . . . . . . . . . . . . . . . . . . . . . . [0m [38;5;253mthomasou0[0m
+[38;5;246m                                                        [0m   [38;5;239m. [38;5;141mGitHub:[0m [38;5;239m. . . . . . . . . . . . . . . . . . . . . . . .[0m [38;5;253mSmokeyBear10[0m
+[38;5;246m                                                        [0m   [38;5;239m. [38;5;141mInstagram:[0m [38;5;239m. . . . . . . . . . . . . . . . . . . . . . . .[0m [38;5;253mtommy_ou_[0m
+[38;5;246m                                                        [0m   
+[38;5;246m                                                        [0m   [38;5;239m- [1;38;5;117mStack[0m [38;5;239m──────────────────────────────────────────────────────────────[0m
+[38;5;246m                                                        [0m   [38;5;239m. [38;5;141mFrontend:[0m [38;5;239m. . . . . . . . . . . . . . . . .[0m [38;5;253mReact, Next.js, Tailwind[0m
+[38;5;246m                                                        [0m   [38;5;239m. [38;5;141mBackend:[0m [38;5;239m. . . . . . . . . . . . . . . . .[0m [38;5;253mFastAPI, Postgres, Docker[0m
+[38;5;246m                                                        [0m   [38;5;239m. [38;5;141mInfra:[0m [38;5;239m. . . . . . . . . . . . . . . . . . . .[0m [38;5;253mVercel, Fly.io, Linux[0m
+```
 
 ---
 
