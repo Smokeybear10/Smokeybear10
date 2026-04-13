@@ -6,14 +6,8 @@
 
 <div align="center">
   <a href="https://thomasou.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7DCFFF&center=true&vCenter=true&width=700&height=50&lines=Fullstack+engineer+-+TS%2C+React%2C+Python;MMA+fighter+%26+ML+enthusiast;Shipping+D4NCE%2C+V3RSUS%2C+R1VER;Ships+fast.+Iterates+faster." alt="typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&height=50&lines=Fullstack+engineer+-+TS%2C+React%2C+Python;MMA+fighter+%26+ML+enthusiast;Shipping+D4NCE%2C+V3RSUS%2C+R1VER;Ships+fast.+Iterates+faster." alt="typing animation" />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SmokeyBear10&color=7DCFFF&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <a href="https://github.com/SmokeyBear10?tab=followers"><img src="https://img.shields.io/github/followers/SmokeyBear10?style=flat-square&color=7DCFFF&label=Followers" alt="Followers" /></a>
-  <a href="https://github.com/SmokeyBear10?tab=repositories"><img src="https://img.shields.io/github/stars/SmokeyBear10?style=flat-square&color=7DCFFF&label=Stars" alt="Stars" /></a>
 </div>
 
 <table width="120" align="center">
@@ -84,67 +78,6 @@ impl ThomasOu {
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### <a href="https://github.com/SmokeyBear10/D4NCE">D4NCE</a>
-**AI-Powered DJ System**
-
-Browser-based dual-deck DJ with AI mixing. Talk to it in plain English and it handles transitions, EQ, beat matching, and effect chains.
-
-</td>
-<td width="50%" valign="top">
-
-### <a href="https://github.com/SmokeyBear10/MMA-Predictor">V3RSUS</a>
-**MMA Predictive Analytics**
-
-Ensemble ML engine predicting UFC fight outcomes across 6,500+ historical bouts and 35 stat dimensions.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### <a href="https://github.com/SmokeyBear10/MMA-Strike-Detection">STR1KE</a>
-**MMA Strike Detection**
-
-Computer vision pipeline classifying 5-frame windows of MMA footage as strike or neutral in real time.
-
-</td>
-<td width="50%" valign="top">
-
-### <a href="https://github.com/SmokeyBear10/002-CORE.R1VER">R1VER</a>
-**Poker Intelligence**
-
-Rust solver + Next.js frontend pursuing parity with Pluribus via Monte Carlo CFR on a blueprint abstraction.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### <a href="https://github.com/SmokeyBear10/SmartCV">DR4FT</a>
-**AI Resume Optimizer**
-
-NLP + Gemini beats ATS systems, surfaces skill gaps, and generates optimized resumes from scratch.
-
-</td>
-<td width="50%" valign="top">
-
-### <a href="https://github.com/SmokeyBear10/Paint">PAINT.ML</a>
-**OCaml GUI Framework**
-
-OCaml compiled to the browser via js_of_ocaml. Editorial landing page with three interactive demos.
-
-</td>
-</tr>
-</table>
-
----
-
-## Featured Demos
-
-<table>
-<tr>
 <td width="33%" align="center">
   <a href="https://github.com/SmokeyBear10/D4NCE">
     <img src="https://raw.githubusercontent.com/SmokeyBear10/PortfolioWebsite-Ver2.0/main/Images/ProjectPhotos/D4NCE.gif" alt="D4NCE" width="100%" />
@@ -205,7 +138,7 @@ OCaml compiled to the browser via js_of_ocaml. Editorial landing page with three
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SmokeyBear10&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SmokeyBear10&theme=dracula&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 <div align="center">
@@ -221,25 +154,25 @@ OCaml compiled to the browser via js_of_ocaml. Editorial landing page with three
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SmokeyBear10/SmokeyBear10/main/profile-summary-card-output/nord_dark/0-profile-details.svg" alt="Profile Details" />
+  <img src="https://raw.githubusercontent.com/SmokeyBear10/SmokeyBear10/main/profile-summary-card-output/dracula/0-profile-details.svg" alt="Profile Details" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SmokeyBear10/SmokeyBear10/main/profile-summary-card-output/nord_dark/3-stats.svg" height="200" alt="Stats" />
-  <img src="https://streak-stats.demolab.com/?user=SmokeyBear10&theme=tokyonight&hide_border=true&cache_seconds=86400" height="200" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/SmokeyBear10/SmokeyBear10/main/profile-summary-card-output/dracula/3-stats.svg" height="200" alt="Stats" />
+  <img src="https://streak-stats.demolab.com/?user=SmokeyBear10&theme=dracula&hide_border=true&cache_seconds=86400" height="200" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SmokeyBear10/SmokeyBear10/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" height="200" alt="Repos per Language" />
-  <img src="https://raw.githubusercontent.com/SmokeyBear10/SmokeyBear10/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" height="200" alt="Most Commit Language" />
+  <img src="https://raw.githubusercontent.com/SmokeyBear10/SmokeyBear10/main/profile-summary-card-output/dracula/1-repos-per-language.svg" height="200" alt="Repos per Language" />
+  <img src="https://raw.githubusercontent.com/SmokeyBear10/SmokeyBear10/main/profile-summary-card-output/dracula/2-most-commit-language.svg" height="200" alt="Most Commit Language" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SmokeyBear10/SmokeyBear10/main/profile-summary-card-output/nord_dark/4-productive-time.svg" alt="Productive Time" />
+  <img src="https://raw.githubusercontent.com/SmokeyBear10/SmokeyBear10/main/profile-summary-card-output/dracula/4-productive-time.svg" alt="Productive Time" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SmokeyBear10&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&cache_seconds=86400" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SmokeyBear10&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=15&cache_seconds=86400" alt="GitHub Trophies" />
 </div>
 
 ---
