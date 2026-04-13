@@ -10,6 +10,12 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SmokeyBear10&color=7DCFFF&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <a href="https://github.com/SmokeyBear10?tab=followers"><img src="https://img.shields.io/github/followers/SmokeyBear10?style=flat-square&color=7DCFFF&label=Followers" alt="Followers" /></a>
+  <a href="https://github.com/SmokeyBear10?tab=repositories"><img src="https://img.shields.io/github/stars/SmokeyBear10?style=flat-square&color=7DCFFF&label=Stars" alt="Stars" /></a>
+</div>
+
 <table width="120" align="center">
   <tr>
     <td align="center" width="60">
@@ -63,6 +69,14 @@ impl ThomasOu {
     }
 }
 ```
+
+---
+
+## Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,fastapi,rust,pytorch,tensorflow,postgres,docker,tailwind,vercel,git,linux&perline=15" alt="Tech Stack" />
+</div>
 
 ---
 
@@ -127,6 +141,59 @@ OCaml compiled to the browser via js_of_ocaml. Editorial landing page with three
 
 ---
 
+## Featured Demos
+
+<table>
+<tr>
+<td width="33%" align="center">
+  <a href="https://github.com/SmokeyBear10/D4NCE">
+    <img src="https://raw.githubusercontent.com/SmokeyBear10/PortfolioWebsite-Ver2.0/main/Images/ProjectPhotos/D4NCE.gif" alt="D4NCE" width="100%" />
+    <br><strong>D4NCE</strong>
+  </a>
+  <br><sub>AI-Powered DJ System</sub>
+</td>
+<td width="33%" align="center">
+  <a href="https://github.com/SmokeyBear10/MMA-Strike-Detection">
+    <img src="https://raw.githubusercontent.com/SmokeyBear10/MMA-Strike-Detection/main/assets/demos/hero-title.gif" alt="STR1KE" width="100%" />
+    <br><strong>STR1KE</strong>
+  </a>
+  <br><sub>Strike Detection CV</sub>
+</td>
+<td width="33%" align="center">
+  <a href="https://github.com/SmokeyBear10/002-CORE.R1VER">
+    <img src="https://raw.githubusercontent.com/SmokeyBear10/PortfolioWebsite-Ver2.0/main/Images/ProjectPhotos/R1VER1.gif" alt="R1VER" width="100%" />
+    <br><strong>R1VER</strong>
+  </a>
+  <br><sub>Poker Intelligence</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+  <a href="https://github.com/SmokeyBear10/Paint">
+    <img src="https://raw.githubusercontent.com/SmokeyBear10/Paint/main/assets/landing-hero.gif" alt="PAINT.ML" width="100%" />
+    <br><strong>PAINT.ML</strong>
+  </a>
+  <br><sub>OCaml GUI Framework</sub>
+</td>
+<td width="33%" align="center">
+  <a href="https://github.com/SmokeyBear10/Blitzsweep">
+    <img src="https://raw.githubusercontent.com/SmokeyBear10/Blitzsweep/main/assets/screenshots/gameplay.gif" alt="SWEEPER.EXE" width="100%" />
+    <br><strong>SWEEPER.EXE</strong>
+  </a>
+  <br><sub>Retro Minesweeper</sub>
+</td>
+<td width="33%" align="center">
+  <a href="https://thomasou.com">
+    <img src="https://raw.githubusercontent.com/SmokeyBear10/PortfolioWebsite-Ver2.0/main/Images/ProjectPhotos/THOMAS.gif" alt="thomasou.com" width="100%" />
+    <br><strong>thomasou.com</strong>
+  </a>
+  <br><sub>Personal Portfolio</sub>
+</td>
+</tr>
+</table>
+
+---
+
 ## Contribution Activity
 
 <div align="center">
@@ -139,6 +206,14 @@ OCaml compiled to the browser via js_of_ocaml. Editorial landing page with three
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SmokeyBear10&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SmokeyBear10/SmokeyBear10/main/profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SmokeyBear10/SmokeyBear10/main/profile-3d-contrib/profile-green-animate.svg" />
+    <img alt="3d contribution chart" src="https://raw.githubusercontent.com/SmokeyBear10/SmokeyBear10/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  </picture>
 </div>
 
 ---
