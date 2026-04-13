@@ -198,9 +198,9 @@ OCaml compiled to the browser via js_of_ocaml. Editorial landing page with three
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SmokeyBear10/SmokeyBear10/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SmokeyBear10/SmokeyBear10/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SmokeyBear10/SmokeyBear10/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SmokeyBear10/SmokeyBear10/main/snk/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SmokeyBear10/SmokeyBear10/main/snk/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SmokeyBear10/SmokeyBear10/main/snk/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
@@ -221,16 +221,25 @@ OCaml compiled to the browser via js_of_ocaml. Editorial landing page with three
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SmokeyBear10&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SmokeyBear10&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/SmokeyBear10/SmokeyBear10/main/profile-summary-card-output/nord_dark/0-profile-details.svg" alt="Profile Details" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmokeyBear10&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/SmokeyBear10/SmokeyBear10/main/profile-summary-card-output/nord_dark/3-stats.svg" height="200" alt="Stats" />
+  <img src="https://streak-stats.demolab.com/?user=SmokeyBear10&theme=tokyonight&hide_border=true&cache_seconds=86400" height="200" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SmokeyBear10&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://raw.githubusercontent.com/SmokeyBear10/SmokeyBear10/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" height="200" alt="Repos per Language" />
+  <img src="https://raw.githubusercontent.com/SmokeyBear10/SmokeyBear10/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" height="200" alt="Most Commit Language" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SmokeyBear10/SmokeyBear10/main/profile-summary-card-output/nord_dark/4-productive-time.svg" alt="Productive Time" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SmokeyBear10&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&cache_seconds=86400" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -239,6 +248,6 @@ OCaml compiled to the browser via js_of_ocaml. Editorial landing page with three
 
 <div align="center">
   <a href="https://open.spotify.com/user/qyuqt7mpf9rl0h4culvha3f0c?si=a765a906bdbe47a4">
-    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify" />
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white&label=Currently+Vibing&labelColor=191414" alt="Spotify Profile" height="32" />
   </a>
 </div>
