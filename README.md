@@ -6,37 +6,37 @@
 
 <div align="center">
 <pre>
-xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx   thomas@ou ---------------------------------------------
-xxx xxx xxx xxx xxx xxx xx;             .+x xxx xxx xxx xxx xxx xxx   . OS: . . . . . . . . . . . . . . . . . . macOS Sequoia
-xxx xxx xxx xxx xxx xxx                         xxx xxx xxx xxx xxx   . Uptime: . . . . . . . . . . . . .  19 years, 4 months
-xxx xxx xxx xxx x                                 : xxx xxx xxx xxx   . Host: . . . . . . . . . . . . . . .  Philadelphia, PA
-xxx xxx xxx x                                         x xxx xxx xxx   . Kernel: . . . . . . . . . . . . . . .  TypeScript 5.x
-xxx xxx xx+                                             xxx xxx xxx   . Shell: . . . . . . . . . . . . . . . . . . zsh + fish
-xxx xxx x;                                               xx xxx xxx   . IDE: . . . . . . . . . . . . . . . . . . VS Code, Vim
-xxx xxx x                     . ..                        x xxx xxx                                                          
-xxx xxx                      .: ::: ..                      xxx xxx   . Lang.Programming: . . TypeScript, Python, Rust, OCaml
-xxx xxx                       . ::: :..                     xxx xxx   . Lang.Frameworks: . . React, Next.js, FastAPI, PyTorch
-xxx xx+                          .: ::.      .: .            xx xxx   . Lang.Real: . . . . . . . . . . . .  English, Mandarin
-xxx xx:                  ..  ..  .: ::: ..    . ::: ::       xx xxx                                                          
-xxx xxx           . .           ..: ;;: :.      .   .:.      xx xxx   . Interests.Physical: . . .  Boxing, Judo, Powerlifting
-xxx xxx           . ..       .: ::: ;;: ::: ::: :;; ;;:      xx xxx   . Interests.Hobbies: . . . . .  Chess, Poker, Saxophone
-xxx xxx          :: ;;: ::: ::: ::: ;+; ;:; ;;; ++; +;; .    xx xxx   - Currently Shipping ----------------------------------
-xxx xxx x       .:: ;;+ ;;; ::: ::; ++; ;;; ::; ;++ +;: :   :xx xxx   . D4NCE: . . . . . . . . . . . . . AI-powered DJ system
-xxx xxx xx      .:: :;: ::. ..: :.: ::: ..: ::. ::: ;:: :.. xxx xxx   . V3RSUS: . . . . . . . . . . . . . MMA fight predictor
-xxx xxx xx.     ..: ::: ::: :..       . ::: :;: ::: ::: ::: xxx xxx   . STR1KE: . . . . . . . . . . . . . strike detection CV
-xxx xxx xxx ..  ... ::: ::: ::: ::: ::; ;;; ;;; ::: ::: ::; xxx xxx   . R1VER: . . . . . . . . . . . . . . poker intelligence
-xxx xxx xxx ;:   .. .:: ::: ::: ..   .   .. .:: ::: ::: xxx xxx xxx   . DR4FT: . . . . . . . . . . . . .  AI resume optimizer
-xxx xxx xxx xxx ... .:: ::    . :+; X+# X+; . : ::: ::: xxx xxx xxx   - Achievements ----------------------------------------
-xxx xxx xxx xxx +   ... ::: . . ::: ::: ::: .;; ::: ::x xxx xxx xxx   . USAMO: . . . . . . . . . . . . . .  Honorable Mention
-xxx xxx xxx xxx x     . .:: ::    .  .    . ::: ::: :;x xxx xxx xxx   . Putnam: . . . . . . . . . . .  Competitor (Score: 22)
-xxx xxx xxx xxx xx       :. ::. .   .   ..: ::: ::: xxx xxx xxx xxx   . AMC 10/12: . . . . . . . .  Distinguished HR (Top 1%)
-xxx xxx xxx xxx xxx       . .:: :.. ... ::: ;:: ::: xxx xxx xxx xxx   . Poker: . . . . . . . . . . . . . . SIG + IMC Finalist
-xxx xxx xxx xxx xxx         .:: ::: ::; ;;; ;;: .:; xxx xxx xxx xxx   - Contact ---------------------------------------------
-xxx xxx xxx xxx xxx ..       .: ::: ::: ;:: :.: ::x xxx xxx xxx xxx   . Email: . . . . . . . . . . . . . contact@thomasou.com
-xxx xxx xxx xxx xx+ ... ..        . .:. ... ::: ::x xxx xxx xxx xxx   . Website: . . . . . . . . . . . . . . . . thomasou.com
-xxx xxx xxx xxx x$X :.: .:. ..          .:: ::: :;x xxx xxx xxx xxx   . LinkedIn: . . . . . . . . . . . . . . . . . thomasou0
-xxx xxx xxx ;X& &$X X:: ::: ::: :.. ... ..: ::: :xx xxx xxx xxx xxx   . GitHub: . . . . . . . . . . . . . . . .  SmokeyBear10
-xxx xxx       : &$& $Xx ::: ::: ::: .:: :.. ::: :xX      :x xxx xxx   . Instagram: . . . . . . . . . . . . . . . .  tommy_ou_
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx   thomas@ou ---------------------------------------------
+xxx xxx xxx xxx xxx xx;             .+x xxx xxx xxx xxx xxx   . OS: . . . . . . . . . . . . . . . . . . macOS Sequoia
+xxx xxx xxx xxx xxx                         xxx xxx xxx xxx   . Uptime: . . . . . . . . . . . . .  19 years, 4 months
+xxx xxx xxx x                                 : xxx xxx xxx   . Host: . . . . . . . . . . . . . . .  Philadelphia, PA
+xxx xxx x                                         x xxx xxx   . Kernel: . . . . . . . . . . . . . . .  TypeScript 5.x
+xxx xx+                                             xxx xxx   . Shell: . . . . . . . . . . . . . . . . . . zsh + fish
+xxx x;                                               xx xxx   . IDE: . . . . . . . . . . . . . . . . . . VS Code, Vim
+xxx x                     . ..                        x xxx                                                          
+xxx                      .: ::: ..                      xxx   . Lang.Programming: . . TypeScript, Python, Rust, OCaml
+xxx                       . ::: :..                     xxx   . Lang.Frameworks: . . React, Next.js, FastAPI, PyTorch
+xx+                          .: ::.      .: .            xx   . Lang.Real: . . . . . . . . . . . .  English, Mandarin
+xx:                  ..  ..  .: ::: ..    . ::: ::       xx                                                          
+xxx           . .           ..: ;;: :.      .   .:.      xx   . Interests.Physical: . . .  Boxing, Judo, Powerlifting
+xxx           . ..       .: ::: ;;: ::: ::: :;; ;;:      xx   . Interests.Hobbies: . . . . .  Chess, Poker, Saxophone
+xxx          :: ;;: ::: ::: ::: ;+; ;:; ;;; ++; +;; .    xx   - Currently Shipping ----------------------------------
+xxx x       .:: ;;+ ;;; ::: ::; ++; ;;; ::; ;++ +;: :   :xx   . D4NCE: . . . . . . . . . . . . . AI-powered DJ system
+xxx xx      .:: :;: ::. ..: :.: ::: ..: ::. ::: ;:: :.. xxx   . V3RSUS: . . . . . . . . . . . . . MMA fight predictor
+xxx xx.     ..: ::: ::: :..       . ::: :;: ::: ::: ::: xxx   . STR1KE: . . . . . . . . . . . . . strike detection CV
+xxx xxx ..  ... ::: ::: ::: ::: ::; ;;; ;;; ::: ::: ::; xxx   . R1VER: . . . . . . . . . . . . . . poker intelligence
+xxx xxx ;:   .. .:: ::: ::: ..   .   .. .:: ::: ::: xxx xxx   . DR4FT: . . . . . . . . . . . . .  AI resume optimizer
+xxx xxx xxx ... .:: ::    . :+; X+# X+; . : ::: ::: xxx xxx   - Achievements ----------------------------------------
+xxx xxx xxx +   ... ::: . . ::: ::: ::: .;; ::: ::x xxx xxx   . USAMO: . . . . . . . . . . . . . .  Honorable Mention
+xxx xxx xxx x     . .:: ::    .  .    . ::: ::: :;x xxx xxx   . Putnam: . . . . . . . . . . .  Competitor (Score: 22)
+xxx xxx xxx xx       :. ::. .   .   ..: ::: ::: xxx xxx xxx   . AMC 10/12: . . . . . . . .  Distinguished HR (Top 1%)
+xxx xxx xxx xxx       . .:: :.. ... ::: ;:: ::: xxx xxx xxx   . Poker: . . . . . . . . . . . . . . SIG + IMC Finalist
+xxx xxx xxx xxx         .:: ::: ::; ;;; ;;: .:; xxx xxx xxx   - Contact ---------------------------------------------
+xxx xxx xxx xxx ..       .: ::: ::: ;:: :.: ::x xxx xxx xxx   . Email: . . . . . . . . . . . . . contact@thomasou.com
+xxx xxx xxx xx+ ... ..        . .:. ... ::: ::x xxx xxx xxx   . Website: . . . . . . . . . . . . . . . . thomasou.com
+xxx xxx xxx x$X :.: .:. ..          .:: ::: :;x xxx xxx xxx   . LinkedIn: . . . . . . . . . . . . . . . . . thomasou0
+xxx xxx ;X& &$X X:: ::: ::: :.. ... ..: ::: :xx xxx xxx xxx   . GitHub: . . . . . . . . . . . . . . . .  SmokeyBear10
+xxx       : &$& $Xx ::: ::: ::: .:: :.. ::: :xX      :x xxx   . Instagram: . . . . . . . . . . . . . . . .  tommy_ou_
 </pre>
 </div>
 
@@ -56,14 +56,14 @@ xxx xxx       : &$& $Xx ::: ::: ::: .:: :.. ::: :xX      :x xxx xxx   . Instagra
 <tr>
 <td width="33%" align="center">
   <a href="https://github.com/SmokeyBear10/D4NCE">
-    <video src="./media/D4NCE.mp4" poster="./media/D4NCE.jpg" autoplay loop muted playsinline width="100%"><img src="./media/D4NCE.jpg" alt="D4NCE" width="100%" /></video>
+    <img src="./media/D4NCE.jpg" alt="D4NCE" width="100%" />
     <br><strong>D4NCE</strong>
   </a>
   <br><sub>AI-Powered DJ System</sub>
 </td>
 <td width="33%" align="center">
   <a href="https://github.com/SmokeyBear10/MMA-Strike-Detection">
-    <video src="./media/hero-title.mp4" poster="./media/hero-title.jpg" autoplay loop muted playsinline width="100%"><img src="./media/hero-title.jpg" alt="STR1KE" width="100%" /></video>
+    <img src="./media/hero-title.jpg" alt="STR1KE" width="100%" />
     <br><strong>STR1KE</strong>
   </a>
   <br><sub>Strike Detection CV</sub>
@@ -86,7 +86,7 @@ xxx xxx       : &$& $Xx ::: ::: ::: .:: :.. ::: :xX      :x xxx xxx   . Instagra
 </td>
 <td width="33%" align="center">
   <a href="https://github.com/SmokeyBear10/Blitzsweep">
-    <video src="./media/gameplay.mp4" poster="./media/gameplay.jpg" autoplay loop muted playsinline width="100%"><img src="./media/gameplay.jpg" alt="SWEEPER.EXE" width="100%" /></video>
+    <img src="./media/gameplay.jpg" alt="SWEEPER.EXE" width="100%" />
     <br><strong>SWEEPER.EXE</strong>
   </a>
   <br><sub>Retro Minesweeper</sub>
