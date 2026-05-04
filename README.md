@@ -5,10 +5,6 @@
 # Hi there, I'm Thomas Ou
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&height=50&lines=Fullstack+engineer+-+TS%2C+Python%2C+Rust;MMA+%2B+ML+enthusiast;Shipping+D4NCE%2C+V3RSUS%2C+R1VER%2C+STR1KE;Ships+fast.+Iterates+faster." alt="typing" />
-</div>
-
-<div align="center">
 <pre>
 xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx   thomas@ou ---------------------------------------------
 xxx xxx xxx xxx xxx xx;             .+x xxx xxx xxx xxx xxx   . OS: . . . . . . . . . . . . . . . . . . macOS Sequoia
@@ -49,18 +45,7 @@ xxx       : &$& $Xx ::: ::: ::: .:: :.. ::: :xX      :x xxx   . Instagram: . . .
 ## Tech Stack
 
 <div align="center">
-  <strong>Languages</strong><br>
-  <img src="https://skillicons.dev/icons?i=ts,python,rust,ocaml" alt="Languages" />
-</div>
-
-<div align="center">
-  <strong>Frameworks</strong><br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,tailwind,pytorch,tensorflow" alt="Frameworks" />
-</div>
-
-<div align="center">
-  <strong>Infrastructure</strong><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,postgres,docker,vercel,git,linux" alt="Infrastructure" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,fastapi,rust,pytorch,tensorflow,postgres,docker,tailwind,vercel,git,linux&perline=15" alt="Tech Stack" />
 </div>
 
 ---
