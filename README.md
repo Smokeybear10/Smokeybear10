@@ -103,30 +103,14 @@ xxx       : &$& $Xx ::: ::: ::: .:: :.. ::: :xX      :x xxx   . Instagram: . . .
 
 ---
 
-## GitHub Stats
+## Contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SmokeyBear10/SmokeyBear10/main/profile-summary-card-output/dracula/0-profile-details.svg" alt="Profile Details" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Chart" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SmokeyBear10/SmokeyBear10/main/profile-summary-card-output/dracula/3-stats.svg" height="200" alt="Stats" />
-  <img src="https://streak-stats.demolab.com/?user=SmokeyBear10&theme=dracula&hide_border=true&cache_seconds=86400" height="200" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SmokeyBear10/SmokeyBear10/main/profile-summary-card-output/dracula/1-repos-per-language.svg" height="200" alt="Repos per Language" />
-  <img src="https://raw.githubusercontent.com/SmokeyBear10/SmokeyBear10/main/profile-summary-card-output/dracula/2-most-commit-language.svg" height="200" alt="Most Commit Language" />
-</div>
-
----
-
-## Currently Listening
-
-<div align="center">
-  <a href="https://open.spotify.com/user/qyuqt7mpf9rl0h4culvha3f0c?si=a765a906bdbe47a4">
-    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white&label=Currently+Vibing&labelColor=191414" alt="Spotify Profile" height="32" />
-  </a>
+  <img src="./profile-trophies/trophy.svg" alt="Trophies" />
 </div>
 
 ---
