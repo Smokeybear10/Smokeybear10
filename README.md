@@ -93,8 +93,6 @@ xxx       : &$& $Xx ::: ::: ::: .:: :.. ::: :xX      :x xxx   . Instagram: . . .
 </tr>
 </table>
 
-<sub>River builds on <a href="https://github.com/krukah/robopoker">robopoker</a> by Kelechi Ukah.</sub>
-
 ---
 
 ## Contributions
