@@ -1,10 +1,51 @@
-<div align="center">
-  <img src="hero.gif" alt="Thomas Ou profile banner" />
-</div>
+# Thomas Ou
 
-# Hi there, I'm Thomas Ou
+Mathematics & Computer Science at Penn. Interested in game theory, probabilistic modeling, and software systems.
 
-Mathematics & Computer Science at Penn · Game theory, probability, and systems.
+[Website](https://thomasou.com) · [LinkedIn](https://www.linkedin.com/in/thomasou0/) · [Email](mailto:contact@thomasou.com)
+
+<p align="center">
+  <img src="hero.gif" alt="Animated pixel-art city scene" width="720" />
+</p>
+
+## Selected work
+
+### [thomasou.com](https://thomasou.com)
+
+My personal site for research, notes, and writing.
+
+<a href="https://thomasou.com"><img src="./media/previews/website.png" alt="Personal website with research navigation and a trefoil knot visualization" width="720" /></a>
+
+[Visit website](https://thomasou.com) · [Source](https://github.com/Smokeybear10/000.CORE.portfolio)
+
+### [D4NCE](https://dance.thomasou.com)
+
+A browser DJ system with two decks, real-time audio controls, and AI-assisted mixing.
+
+<a href="https://dance.thomasou.com"><img src="./media/previews/d4nce.png" alt="D4NCE with two loaded tracks, mixer controls, and a track library" width="720" /></a>
+
+[Open D4NCE](https://dance.thomasou.com) · [Source](https://github.com/Smokeybear10/001.CORE.d4nce)
+
+### [Harbor](https://harbor.thomasou.com)
+
+Maritime intelligence for tracking vessels, investigating AIS anomalies, and reviewing satellite evidence.
+
+<a href="https://harbor.thomasou.com"><img src="./media/previews/harbor.png" alt="Harbor vessel map with maritime risk alerts around Los Angeles and Long Beach" width="720" /></a>
+
+[Open Harbor](https://harbor.thomasou.com) · [Source](https://github.com/Smokeybear10/003.CORE.harbor)
+
+## Research
+
+- **[River](https://github.com/Smokeybear10/103.RSCH.river)** — Poker solving and counterfactual regret minimization in Rust.
+- **[Versus](https://github.com/Smokeybear10/211.PROJ.versus)** — UFC outcome prediction with ensemble models and feature attribution.
+- **[Relay](https://github.com/Smokeybear10/105.RSCH.relay)** — Financial NLP research on attributing stock moves to evidence.
+
+## Tools
+
+TypeScript · React · Next.js · Python · FastAPI · Rust
+
+<details>
+<summary>More about me</summary>
 
 <div align="center">
 <pre>
@@ -42,52 +83,16 @@ xxx       : &$& $Xx ::: ::: ::: .:: :.. ::: :xX      :x xxx   . Instagram: . . .
 </pre>
 </div>
 
----
-
-## Tech Stack
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,fastapi,rust,pytorch,tensorflow,postgres,docker,tailwind,vercel,git,linux&perline=15" alt="Tech Stack" />
 </div>
 
----
+[Instagram](https://www.instagram.com/tommy_ou_/)
 
-## Selected Work
+</details>
 
-<table>
-<tr>
-<td colspan="2" valign="top">
-  <a href="https://thomasou.com"><img src="./media/previews/website.png" alt="Thomas Ou's personal website" width="100%" /></a>
-  <h3><a href="https://thomasou.com">thomasou.com</a></h3>
-  <p>My personal site for research, notes, and writing.</p>
-  <p><a href="https://thomasou.com">Visit website</a> · <a href="https://github.com/Smokeybear10/000.CORE.portfolio">Source</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-  <a href="https://dance.thomasou.com"><img src="./media/previews/d4nce.png" alt="D4NCE two-deck browser DJ interface" width="100%" /></a>
-  <h3><a href="https://github.com/Smokeybear10/001.CORE.d4nce">D4NCE</a></h3>
-  <p>Two-deck browser DJ with real-time audio controls and AI-assisted mixing.</p>
-  <p><a href="https://dance.thomasou.com">Live demo</a> · <a href="https://github.com/Smokeybear10/001.CORE.d4nce">Source</a></p>
-</td>
-<td width="50%" valign="top">
-  <a href="https://harbor.thomasou.com"><img src="./media/previews/harbor.png" alt="Harbor maritime intelligence dashboard" width="100%" /></a>
-  <h3><a href="https://github.com/Smokeybear10/003.CORE.harbor">Harbor</a></h3>
-  <p>Track vessels, investigate AIS anomalies, and review satellite evidence.</p>
-  <p><a href="https://harbor.thomasou.com">Live demo</a> · <a href="https://github.com/Smokeybear10/003.CORE.harbor">Source</a></p>
-</td>
-</tr>
-</table>
-
-## Research
-
-- **[River](https://github.com/Smokeybear10/103.RSCH.river)** — Poker solving and counterfactual regret minimization in Rust.
-- **[Versus](https://github.com/Smokeybear10/211.PROJ.versus)** — UFC outcome prediction with ensemble models and feature attribution.
-- **[Relay](https://github.com/Smokeybear10/105.RSCH.relay)** — Financial NLP research on attributing stock moves to evidence.
-
----
-
-## Contributions
+<details>
+<summary>GitHub activity</summary>
 
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Chart" />
@@ -97,21 +102,4 @@ xxx       : &$& $Xx ::: ::: ::: .:: :.. ::: :xX      :x xxx   . Instagram: . . .
   <img src="./profile-trophies/trophy.svg" alt="Trophies" />
 </div>
 
----
-
-<table align="center">
-  <tr>
-    <td align="center" width="60">
-      <a href="mailto:contact@thomasou.com"><img src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true" alt="Email" height="32"></a>
-    </td>
-    <td align="center" width="60">
-      <a href="https://www.linkedin.com/in/thomasou0/"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" alt="LinkedIn" height="32"></a>
-    </td>
-    <td align="center" width="60">
-      <a href="https://thomasou.com"><img src="https://user-images.githubusercontent.com/29790345/184600207-42a1a54e-9faa-40c8-b18e-f8230d0c6d7c.png?raw=true" alt="Website" height="32"></a>
-    </td>
-    <td align="center" width="60">
-      <a href="https://www.instagram.com/tommy_ou_/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="32"></a>
-    </td>
-  </tr>
-</table>
+</details>
