@@ -1,10 +1,58 @@
-# Thomas Ou
+<div align="center">
+  <img src="hero.gif" alt="Thomas Ou profile banner" />
+</div>
 
-Mathematics & Computer Science at Penn. I build interactive systems, developer tools, and software for studying games and probability.
+# Hi there, I'm Thomas Ou
 
-[Website](https://thomasou.com) · [LinkedIn](https://www.linkedin.com/in/thomasou0/) · [Email](mailto:contact@thomasou.com)
+Mathematics & Computer Science at Penn · Game theory, probability, and systems.
 
-## Selected work
+<div align="center">
+<pre>
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx   thomas@ou ---------------------------------------------
+xxx xxx xxx xxx xxx xx;             .+x xxx xxx xxx xxx xxx   . OS: . . . . . . . . . . . . . . . . . . macOS Sequoia
+xxx xxx xxx xxx xxx                         xxx xxx xxx xxx   . Studies: . . . . . . . . . . . Mathematics & CS, Penn
+xxx xxx xxx x                                 : xxx xxx xxx   . Host: . . . . . . . . . . . . . . .  Philadelphia, PA
+xxx xxx x                                         x xxx xxx   . Kernel: . . . . . . . . . . . . . . .  TypeScript 5.x
+xxx xx+                                             xxx xxx   . Shell: . . . . . . . . . . . . . . . . . . zsh + fish
+xxx x;                                               xx xxx   . IDE: . . . . . . . . . . . . . . . . . . VS Code, Vim
+xxx x                     . ..                        x xxx
+xxx                      .: ::: ..                      xxx   . Lang.Programming: . . TypeScript, Python, Rust, OCaml
+xxx                       . ::: :..                     xxx   . Lang.Frameworks: . . React, Next.js, FastAPI, PyTorch
+xx+                          .: ::.      .: .            xx   . Lang.Real: . . . . . . . . . . . .  English, Mandarin
+xx:                  ..  ..  .: ::: ..    . ::: ::       xx
+xxx           . .           ..: ;;: :.      .   .:.      xx   . Interests.Physical: . . .  Boxing, Judo, Powerlifting
+xxx           . ..       .: ::: ;;: ::: ::: :;; ;;:      xx   . Interests.Hobbies: . . . . .  Chess, Poker, Saxophone
+xxx          :: ;;: ::: ::: ::: ;+; ;:; ;;; ++; +;; .    xx   - Selected Work ---------------------------------------
+xxx x       .:: ;;+ ;;; ::: ::; ++; ;;; ::; ;++ +;: :   :xx   . D4NCE: . . . . . . . . . . . . . AI-powered DJ system
+xxx xx      .:: :;: ::. ..: :.: ::: ..: ::. ::: ;:: :.. xxx   . Harbor: . . . . . . . . . . . . maritime intelligence
+xxx xx.     ..: ::: ::: :..       . ::: :;: ::: ::: ::: xxx   . Governor: . . . . . . . . . . . . AI budget controls
+xxx xxx ..  ... ::: ::: ::: ::: ::; ;;; ;;; ::: ::: ::; xxx   . Zetamax: . . . . . . . . . . . . . mental arithmetic
+xxx xxx ;:   .. .:: ::: ::: ..   .   .. .:: ::: ::: xxx xxx   . Research: . . . . . . . . . . . . . . River / Strike
+xxx xxx xxx ... .:: ::    . :+; X+# X+; . : ::: ::: xxx xxx   - Achievements ----------------------------------------
+xxx xxx xxx +   ... ::: . . ::: ::: ::: .;; ::: ::x xxx xxx   . USAMO: . . . . . . . . . . . . . .  Honorable Mention
+xxx xxx xxx x     . .:: ::    .  .    . ::: ::: :;x xxx xxx   . Putnam: . . . . . . . . . . .  Competitor (Score: 22)
+xxx xxx xxx xx       :. ::. .   .   ..: ::: ::: xxx xxx xxx   . AMC 10/12: . . . . . . . .  Distinguished HR (Top 1%)
+xxx xxx xxx xxx       . .:: :.. ... ::: ;:: ::: xxx xxx xxx   . Poker: . . . . . . . . . . . . . . SIG + IMC Finalist
+xxx xxx xxx xxx         .:: ::: ::; ;;; ;;: .:; xxx xxx xxx   - Contact ---------------------------------------------
+xxx xxx xxx xxx ..       .: ::: ::: ;:: :.: ::x xxx xxx xxx   . Email: . . . . . . . . . . . . . contact@thomasou.com
+xxx xxx xxx xx+ ... ..        . .:. ... ::: ::x xxx xxx xxx   . Website: . . . . . . . . . . . . . . . . thomasou.com
+xxx xxx xxx x$X :.: .:. ..          .:: ::: :;x xxx xxx xxx   . LinkedIn: . . . . . . . . . . . . . . . . . thomasou0
+xxx xxx ;X& &$X X:: ::: ::: :.. ... ..: ::: :xx xxx xxx xxx   . GitHub: . . . . . . . . . . . . . . . .  SmokeyBear10
+xxx       : &$& $Xx ::: ::: ::: .:: :.. ::: :xX      :x xxx   . Instagram: . . . . . . . . . . . . . . . .  tommy_ou_
+</pre>
+</div>
+
+---
+
+## Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,fastapi,rust,pytorch,tensorflow,postgres,docker,tailwind,vercel,git,linux&perline=15" alt="Tech Stack" />
+</div>
+
+---
+
+## Selected Work
 
 <table>
 <tr>
@@ -47,8 +95,33 @@ Mathematics & Computer Science at Penn. I build interactive systems, developer t
 
 <sub>River builds on <a href="https://github.com/krukah/robopoker">robopoker</a> by Kelechi Ukah.</sub>
 
-**Tools:** TypeScript, Python, Rust, OCaml · React, Next.js, FastAPI, PyTorch
+---
 
-**Mathematics:** USAMO honorable mention · Putnam score: 22
+## Contributions
 
-**Outside code:** Boxing, judo, powerlifting, chess, poker, and saxophone.
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Chart" />
+</div>
+
+<div align="center">
+  <img src="./profile-trophies/trophy.svg" alt="Trophies" />
+</div>
+
+---
+
+<table align="center">
+  <tr>
+    <td align="center" width="60">
+      <a href="mailto:contact@thomasou.com"><img src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true" alt="Email" height="32"></a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://www.linkedin.com/in/thomasou0/"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" alt="LinkedIn" height="32"></a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://thomasou.com"><img src="https://user-images.githubusercontent.com/29790345/184600207-42a1a54e-9faa-40c8-b18e-f8230d0c6d7c.png?raw=true" alt="Website" height="32"></a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://www.instagram.com/tommy_ou_/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="32"></a>
+    </td>
+  </tr>
+</table>
