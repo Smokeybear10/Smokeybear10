@@ -24,10 +24,10 @@ xxx           . .           ..: ;;: :.      .   .:.      xx   . Interests.Physic
 xxx           . ..       .: ::: ;;: ::: ::: :;; ;;:      xx   . Interests.Hobbies: . . . . .  Chess, Poker, Saxophone
 xxx          :: ;;: ::: ::: ::: ;+; ;:; ;;; ++; +;; .    xx   - Selected Work ---------------------------------------
 xxx x       .:: ;;+ ;;; ::: ::; ++; ;;; ::; ;++ +;: :   :xx   . D4NCE: . . . . . . . . . . . . . AI-powered DJ system
-xxx xx      .:: :;: ::. ..: :.: ::: ..: ::. ::: ;:: :.. xxx   . V3RSUS: . . . . . . . . . . . . . MMA fight predictor
-xxx xx.     ..: ::: ::: :..       . ::: :;: ::: ::: ::: xxx   . STR1KE: . . . . . . . . . . . . . strike detection CV
-xxx xxx ..  ... ::: ::: ::: ::: ::; ;;; ;;; ::: ::: ::; xxx   . R1VER: . . . . . . . . . . . . . . poker intelligence
-xxx xxx ;:   .. .:: ::: ::: ..   .   .. .:: ::: ::: xxx xxx   . DR4FT: . . . . . . . . . . . . .  AI resume optimizer
+xxx xx      .:: :;: ::. ..: :.: ::: ..: ::. ::: ;:: :.. xxx   . Versus: . . . . . . . . . . . . . MMA fight predictor
+xxx xx.     ..: ::: ::: :..       . ::: :;: ::: ::: ::: xxx   . Strike: . . . . . . . . . . . . . strike detection CV
+xxx xxx ..  ... ::: ::: ::: ::: ::; ;;; ;;; ::: ::: ::; xxx   . River: . . . . . . . . . . . . . . poker intelligence
+xxx xxx ;:   .. .:: ::: ::: ..   .   .. .:: ::: ::: xxx xxx   . Draft: . . . . . . . . . . . . .  AI resume optimizer
 xxx xxx xxx ... .:: ::    . :+; X+# X+; . : ::: ::: xxx xxx   - Achievements ----------------------------------------
 xxx xxx xxx +   ... ::: . . ::: ::: ::: .;; ::: ::x xxx xxx   . USAMO: . . . . . . . . . . . . . .  Honorable Mention
 xxx xxx xxx x     . .:: ::    .  .    . ::: ::: :;x xxx xxx   . Putnam: . . . . . . . . . . .  Competitor (Score: 22)
@@ -64,16 +64,16 @@ xxx       : &$& $Xx ::: ::: ::: .:: :.. ::: :xX      :x xxx   . Instagram: . . .
   <br><sub>AI-Powered DJ System</sub>
 </td>
 <td width="33%" align="center">
-  <a href="https://github.com/Smokeybear10/100.RSCH.str1ke">
-    <img src="./media/hero-title.jpg" alt="STR1KE" width="100%" />
-    <br><strong>STR1KE</strong>
+  <a href="https://github.com/Smokeybear10/100.RSCH.strike">
+    <img src="./media/hero-title.jpg" alt="Strike" width="100%" />
+    <br><strong>Strike</strong>
   </a>
   <br><sub>Strike Detection CV</sub>
 </td>
 <td width="33%" align="center">
-  <a href="https://github.com/Smokeybear10/103.RSCH.r1ver">
-    <img src="https://raw.githubusercontent.com/Smokeybear10/000.CORE.portfolio/main/Images/ProjectPhotos/R1VER1.gif" alt="R1VER" width="100%" />
-    <br><strong>R1VER</strong>
+  <a href="https://github.com/Smokeybear10/103.RSCH.river">
+    <img src="https://raw.githubusercontent.com/Smokeybear10/000.CORE.portfolio/main/Images/ProjectPhotos/R1VER1.gif" alt="River" width="100%" />
+    <br><strong>River</strong>
   </a>
   <br><sub>Poker Intelligence</sub>
 </td>
@@ -103,7 +103,7 @@ xxx       : &$& $Xx ::: ::: ::: .:: :.. ::: :xX      :x xxx   . Instagram: . . .
 </tr>
 </table>
 
-<sub>R1VER builds on <a href="https://github.com/krukah/robopoker">robopoker</a> by Kelechi Ukah.</sub>
+<sub>River builds on <a href="https://github.com/krukah/robopoker">robopoker</a> by Kelechi Ukah.</sub>
 
 ---
 
