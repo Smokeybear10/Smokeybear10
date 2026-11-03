@@ -71,8 +71,8 @@ xxx       : &$& $Xx ::: ::: ::: .:: :.. ::: :xX      :x xxx   . Instagram: . . .
   <br><sub>Strike Detection CV</sub>
 </td>
 <td width="33%" align="center">
-  <a href="https://github.com/Smokeybear10/002.CORE.r1ver">
-    <img src="https://raw.githubusercontent.com/Smokeybear10/000.CORE.portfolio/main/Images/ProjectPhotos/R1VER1.gif" alt="R1VER" width="100%" />
+  <a href="https://github.com/Smokeybear10/103.RSCH.r1ver">
+    <img src="https://raw.githubusercontent.com/Smokeybear10/906.MISC.portfolio/main/Images/ProjectPhotos/R1VER1.gif" alt="R1VER" width="100%" />
     <br><strong>R1VER</strong>
   </a>
   <br><sub>Poker Intelligence</sub>
@@ -95,7 +95,7 @@ xxx       : &$& $Xx ::: ::: ::: .:: :.. ::: :xX      :x xxx   . Instagram: . . .
 </td>
 <td width="33%" align="center">
   <a href="https://thomasou.com">
-    <img src="https://raw.githubusercontent.com/Smokeybear10/000.CORE.portfolio/main/Images/ProjectPhotos/THOMAS.gif" alt="thomasou.com" width="100%" />
+    <img src="https://raw.githubusercontent.com/Smokeybear10/906.MISC.portfolio/main/Images/ProjectPhotos/THOMAS.gif" alt="thomasou.com" width="100%" />
     <br><strong>thomasou.com</strong>
   </a>
   <br><sub>Personal Portfolio</sub>
