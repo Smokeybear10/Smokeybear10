@@ -24,10 +24,10 @@ xxx           . .           ..: ;;: :.      .   .:.      xx   . Interests.Physic
 xxx           . ..       .: ::: ;;: ::: ::: :;; ;;:      xx   . Interests.Hobbies: . . . . .  Chess, Poker, Saxophone
 xxx          :: ;;: ::: ::: ::: ;+; ;:; ;;; ++; +;; .    xx   - Selected Work ---------------------------------------
 xxx x       .:: ;;+ ;;; ::: ::; ++; ;;; ::; ;++ +;: :   :xx   . D4NCE: . . . . . . . . . . . . . AI-powered DJ system
-xxx xx      .:: :;: ::. ..: :.: ::: ..: ::. ::: ;:: :.. xxx   . Versus: . . . . . . . . . . . . . MMA fight predictor
-xxx xx.     ..: ::: ::: :..       . ::: :;: ::: ::: ::: xxx   . Strike: . . . . . . . . . . . . . strike detection CV
-xxx xxx ..  ... ::: ::: ::: ::: ::; ;;; ;;; ::: ::: ::; xxx   . River: . . . . . . . . . . . . . . poker intelligence
-xxx xxx ;:   .. .:: ::: ::: ..   .   .. .:: ::: ::: xxx xxx   . Draft: . . . . . . . . . . . . .  AI resume optimizer
+xxx xx      .:: :;: ::. ..: :.: ::: ..: ::. ::: ;:: :.. xxx   . Harbor: . . . . . . . . . . . . maritime intelligence
+xxx xx.     ..: ::: ::: :..       . ::: :;: ::: ::: ::: xxx   . Governor: . . . . . . . . . . . . AI budget controls
+xxx xxx ..  ... ::: ::: ::: ::: ::; ;;; ;;; ::: ::: ::; xxx   . Zetamax: . . . . . . . . . . . . . mental arithmetic
+xxx xxx ;:   .. .:: ::: ::: ..   .   .. .:: ::: ::: xxx xxx   . Research: . . . . . . . . . . . . . . River / Strike
 xxx xxx xxx ... .:: ::    . :+; X+# X+; . : ::: ::: xxx xxx   - Achievements ----------------------------------------
 xxx xxx xxx +   ... ::: . . ::: ::: ::: .;; ::: ::x xxx xxx   . USAMO: . . . . . . . . . . . . . .  Honorable Mention
 xxx xxx xxx x     . .:: ::    .  .    . ::: ::: :;x xxx xxx   . Putnam: . . . . . . . . . . .  Competitor (Score: 22)
@@ -56,49 +56,39 @@ xxx       : &$& $Xx ::: ::: ::: .:: :.. ::: :xX      :x xxx   . Instagram: . . .
 
 <table>
 <tr>
-<td width="33%" align="center">
-  <a href="https://github.com/Smokeybear10/001.CORE.d4nce">
-    <img src="./media/D4NCE.jpg" alt="D4NCE" width="100%" />
-    <br><strong>D4NCE</strong>
-  </a>
-  <br><sub>AI-Powered DJ System</sub>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/Smokeybear10/001.CORE.d4nce">D4NCE</a></h3>
+  <p>Two-deck browser DJ with real-time audio controls and AI-assisted mixing.</p>
+  <p><a href="https://dance.thomasou.com">Live demo</a> · <a href="https://github.com/Smokeybear10/001.CORE.d4nce">Source</a></p>
 </td>
-<td width="33%" align="center">
-  <a href="https://github.com/Smokeybear10/100.RSCH.strike">
-    <img src="./media/hero-title.jpg" alt="Strike" width="100%" />
-    <br><strong>Strike</strong>
-  </a>
-  <br><sub>Strike Detection CV</sub>
-</td>
-<td width="33%" align="center">
-  <a href="https://github.com/Smokeybear10/103.RSCH.river">
-    <img src="https://raw.githubusercontent.com/Smokeybear10/000.CORE.portfolio/main/Images/ProjectPhotos/R1VER1.gif" alt="River" width="100%" />
-    <br><strong>River</strong>
-  </a>
-  <br><sub>Poker Intelligence</sub>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/Smokeybear10/003.CORE.harbor">Harbor</a></h3>
+  <p>Track vessels, investigate AIS anomalies, and review satellite evidence.</p>
+  <p><a href="https://harbor.thomasou.com">Live demo</a> · <a href="https://github.com/Smokeybear10/003.CORE.harbor">Source</a></p>
 </td>
 </tr>
 <tr>
-<td width="33%" align="center">
-  <a href="https://github.com/Smokeybear10/202.PROJ.paint">
-    <img src="https://raw.githubusercontent.com/Smokeybear10/202.PROJ.paint/main/assets/landing-hero.gif" alt="PAINT.ML" width="100%" />
-    <br><strong>PAINT.ML</strong>
-  </a>
-  <br><sub>OCaml GUI Framework</sub>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/Smokeybear10/207.PROJ.governor">Governor</a></h3>
+  <p>Enforce dollar budgets on AI jobs inside VS Code and Cursor.</p>
+  <p><a href="https://marketplace.visualstudio.com/items?itemName=governor.token-governor-vscode">Install extension</a> · <a href="https://github.com/Smokeybear10/207.PROJ.governor">Source</a></p>
 </td>
-<td width="33%" align="center">
-  <a href="https://github.com/Smokeybear10/300.GAME.sweeper">
-    <img src="./media/gameplay.jpg" alt="SWEEPER.EXE" width="100%" />
-    <br><strong>SWEEPER.EXE</strong>
-  </a>
-  <br><sub>Retro Minesweeper</sub>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/Smokeybear10/301.GAME.zetamax">Zetamax</a></h3>
+  <p>Train mental arithmetic with targeted practice, ranked rounds, and daily challenges.</p>
+  <p><a href="https://zeta-max.vercel.app">Live demo</a> · <a href="https://github.com/Smokeybear10/301.GAME.zetamax">Source</a></p>
 </td>
-<td width="33%" align="center">
-  <a href="https://thomasou.com">
-    <img src="https://raw.githubusercontent.com/Smokeybear10/000.CORE.portfolio/main/Images/ProjectPhotos/THOMAS.gif" alt="thomasou.com" width="100%" />
-    <br><strong>thomasou.com</strong>
-  </a>
-  <br><sub>Personal Portfolio</sub>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/Smokeybear10/103.RSCH.river">River</a></h3>
+  <p>Research in Rust poker solving with counterfactual regret minimization. Solver runs locally.</p>
+  <p><a href="https://river-002.vercel.app">Project overview</a> · <a href="https://github.com/Smokeybear10/103.RSCH.river">Source</a></p>
+</td>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/Smokeybear10/100.RSCH.strike">Strike</a></h3>
+  <p>Computer-vision research on detecting and classifying MMA strikes.</p>
+  <p><a href="https://github.com/Smokeybear10/100.RSCH.strike/blob/main/model/notebooks/TSN_Pipeline.ipynb">Research notebook</a> · <a href="https://github.com/Smokeybear10/100.RSCH.strike">Source</a></p>
 </td>
 </tr>
 </table>
