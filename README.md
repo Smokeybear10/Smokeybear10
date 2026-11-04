@@ -132,8 +132,7 @@ xxx       : &$& $Xx ::: ::: ::: .:: :.. ::: :xX      :x xxx   . Instagram: . . .
 
 </details>
 
-<details>
-<summary>GitHub activity</summary>
+## GitHub activity
 
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Chart" />
@@ -142,5 +141,3 @@ xxx       : &$& $Xx ::: ::: ::: .:: :.. ::: :xX      :x xxx   . Instagram: . . .
 <div align="center">
   <img src="./profile-trophies/trophy.svg" alt="Trophies" />
 </div>
-
-</details>
