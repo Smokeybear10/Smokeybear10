@@ -8,7 +8,7 @@ Mathematics & Computer Science at Penn. Interested in game theory, probabilistic
   <img src="hero.gif" alt="Animated pixel-art city scene" width="720" />
 </p>
 
-[Selected work](#selected-work) · [Research](#research) · [All projects](#all-projects)
+[Selected work](#user-content-selected-work) · [Research](#user-content-research) · [All projects](#user-content-all-projects)
 
 ## Selected work
 
