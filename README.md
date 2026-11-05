@@ -8,9 +8,17 @@ I study math and computer science at Penn. I’m interested in game theory and p
   <img src="hero.gif" alt="Animated pixel-art city scene" width="720" />
 </p>
 
-[Selected work](#user-content-selected-work) · [Research](#user-content-research) · [All projects](#user-content-all-projects)
+[Selected work](#user-content-selected-work) · [Research](#user-content-research) · [Contributions](#user-content-contributions) · [All projects](#user-content-all-projects)
 
 ## Selected work
+
+### [Conformal calibration under new-participant shift](https://github.com/Smokeybear10/conformal-calibration-under-shift)
+
+I compared calibration methods for activity recognition when the test person was absent from training and calibration. In the UCI HAR runs, participant balancing improved lower-tail coverage while sending more predictions for review. The notebook includes a second-dataset check on WISDM and the limitations.
+
+<a href="https://github.com/Smokeybear10/conformal-calibration-under-shift/tree/main/results"><img src="https://raw.githubusercontent.com/Smokeybear10/conformal-calibration-under-shift/main/results/coverage_vs_review.png" alt="UCI HAR results showing the tradeoff between lower-tail participant coverage and review rate" width="720" /></a>
+
+[Code](https://github.com/Smokeybear10/conformal-calibration-under-shift) · [Notebook](https://github.com/Smokeybear10/conformal-calibration-under-shift/blob/main/unseen_person_conformal.ipynb) · [Results](https://github.com/Smokeybear10/conformal-calibration-under-shift/tree/main/results) · [Contribute](https://github.com/Smokeybear10/conformal-calibration-under-shift/blob/main/CONTRIBUTING.md)
 
 ### [thomasou.com](https://thomasou.com)
 
@@ -39,8 +47,13 @@ A vessel map with AIS anomaly detection and satellite imagery.
 ## Research
 
 - [River](https://github.com/Smokeybear10/103.RSCH.river): a poker solver in Rust using counterfactual regret minimization.
-- [Versus](https://github.com/Smokeybear10/211.PROJ.versus): predicting UFC results with ensemble models and feature attribution.
+- [Versus](https://github.com/Smokeybear10/005.CORE.versus): predicting UFC results with ensemble models and feature attribution.
 - [Relay](https://github.com/Smokeybear10/105.RSCH.relay): matching stock moves to news, filings, and earnings transcripts.
+
+## Contributions
+
+- [HarborOS: vessel API pagination and query changes](https://github.com/asrinivasan75/HarborOS/pull/1), merged. Added pagination and replaced per-vessel position and alert queries with joined queries.
+- [Chain-Love: explorer schema naming proposal](https://github.com/Chain-Love/chain-love/issues/3256), open proposal. Documented the affected data and a compatibility plan for renaming a verification field.
 
 ## All projects
 
@@ -55,6 +68,7 @@ A vessel map with AIS anomaly detection and satellite imagery.
 
 ### RSCH
 
+- [Conformal calibration under new-participant shift](https://github.com/Smokeybear10/conformal-calibration-under-shift): participant-level coverage and review-rate experiments on UCI HAR and WISDM.
 - [Strike](https://github.com/Smokeybear10/100.RSCH.strike): detecting strikes in MMA footage with computer vision.
 - [River](https://github.com/Smokeybear10/103.RSCH.river): poker solving with Monte Carlo counterfactual regret minimization.
 - [Fortify](https://github.com/Smokeybear10/104.RSCH.fortify): U.S. military invention proposals and research spending, 1888–1920.
@@ -65,7 +79,7 @@ A vessel map with AIS anomaly detection and satellite imagery.
 - [Draft](https://github.com/Smokeybear10/203.PROJ.draft): resume editing and PDF export.
 - [Governor](https://github.com/Smokeybear10/207.PROJ.governor): an extension for setting AI job budgets.
 - [Sonder](https://github.com/Smokeybear10/208.PROJ.sonder): screening EV charger sites using 3D scans.
-- [Versus](https://github.com/Smokeybear10/211.PROJ.versus): UFC fight predictions.
+- [Versus](https://github.com/Smokeybear10/005.CORE.versus): UFC fight predictions.
 
 ### GAME
 
