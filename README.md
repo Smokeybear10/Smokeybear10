@@ -75,7 +75,6 @@ I study math and computer science at Penn. I’m interested in game theory and p
 
 ### PROJ
 
-- [Draft](https://github.com/Smokeybear10/203.PROJ.draft): resume editing and PDF export.
 - [Governor](https://github.com/Smokeybear10/207.PROJ.governor): an extension for setting AI job budgets.
 - [Sonder](https://github.com/Smokeybear10/208.PROJ.sonder): screening EV charger sites using 3D scans.
 - [Versus](https://github.com/Smokeybear10/005.CORE.versus): UFC fight predictions.
