@@ -41,7 +41,7 @@ I study math and computer science at Penn. I’m interested in game theory and p
 
 - [River](https://github.com/Smokeybear10/103.RSCH.river): a poker solver in Rust using counterfactual regret minimization.
 - [Versus](https://github.com/Smokeybear10/005.CORE.versus): predicting UFC results with ensemble models and feature attribution.
-- [Relay](https://github.com/Smokeybear10/105.RSCH.relay): matching stock moves to news, filings, and earnings transcripts.
+- [Earnings Disclosure Spillovers and Peer-Return Prediction](https://github.com/Smokeybear10/earnings-disclosure-spillovers-and-peer-return-prediction): testing whether earnings disclosures help forecast returns of semiconductor peers.
 
 ## Contributions
 
@@ -65,7 +65,7 @@ I study math and computer science at Penn. I’m interested in game theory and p
 - [Strike](https://github.com/Smokeybear10/100.RSCH.strike): detecting strikes in MMA footage with computer vision.
 - [River](https://github.com/Smokeybear10/103.RSCH.river): poker solving with Monte Carlo counterfactual regret minimization.
 - [Fortify](https://github.com/Smokeybear10/104.RSCH.fortify): U.S. military invention proposals and research spending, 1888–1920.
-- [Relay](https://github.com/Smokeybear10/105.RSCH.relay): connecting stock moves to news and filings.
+- [Earnings Disclosure Spillovers and Peer-Return Prediction](https://github.com/Smokeybear10/earnings-disclosure-spillovers-and-peer-return-prediction): earnings disclosures and semiconductor peer-return forecasts.
 
 ### PROJ
 
@@ -115,7 +115,7 @@ xxx x       .:: ;;+ ;;; ::: ::; ++; ;;; ::; ;++ +;: :   :xx   . Website: . . . .
 xxx xx      .:: :;: ::. ..: :.: ::: ..: ::. ::: ;:: :.. xxx   . D4NCE: . . . . . . . . . . . . . AI-powered DJ system
 xxx xx.     ..: ::: ::: :..       . ::: :;: ::: ::: ::: xxx   . Harbor: . . . . . . . . . . . . maritime intelligence
 xxx xxx ..  ... ::: ::: ::: ::: ::; ;;; ;;; ::: ::: ::; xxx   . Research: . . . . . . . . . . . . . . River / Versus
-xxx xxx ;:   .. .:: ::: ::: ..   .   .. .:: ::: ::: xxx xxx   . Research: . . . . . . . . . . . . . . . . . . Relay
+xxx xxx ;:   .. .:: ::: ::: ..   .   .. .:: ::: ::: xxx xxx   . Research: . . . . . . . . . . . . Earnings spillovers
 xxx xxx xxx ... .:: ::    . :+; X+# X+; . : ::: ::: xxx xxx   - Achievements ----------------------------------------
 xxx xxx xxx +   ... ::: . . ::: ::: ::: .;; ::: ::x xxx xxx   . USAMO: . . . . . . . . . . . . . .  Honorable Mention
 xxx xxx xxx x     . .:: ::    .  .    . ::: ::: :;x xxx xxx   . Putnam: . . . . . . . . . . .  Competitor (Score: 22)
