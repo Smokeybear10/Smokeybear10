@@ -15,24 +15,24 @@ I study math and computer science at Penn. I’m interested in game theory and p
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://thomasou.com">thomasou.com</a></h3>
-<a href="https://thomasou.com"><img src="./media/previews/website.png" alt="Personal website with research navigation and a trefoil knot visualization" width="360" /></a>
-<p>My research, notes, and writing.</p>
+<h3><a href="https://thomasou.com/play/">Thomas Ou · Play</a></h3>
+<a href="https://thomasou.com/play/"><img src="./media/previews/play.png" alt="Thomas Ou's Play page with a gallery of websites and projects" width="360" /></a>
+<p>A collection of my websites and projects.</p>
 <p><a href="https://github.com/Smokeybear10/000.CORE.portfolio">Code</a></p>
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://dance.thomasou.com">D4NCE</a></h3>
-<a href="https://dance.thomasou.com"><img src="./media/previews/d4nce.png" alt="D4NCE with two loaded tracks, mixer controls, and a track library" width="360" /></a>
-<p>A two-deck DJ app in the browser. Mix manually or control it with text and voice.</p>
-<p><a href="https://github.com/Smokeybear10/001.CORE.d4nce">Code</a></p>
+<h3><a href="https://zeta-max.vercel.app">Zetamax</a></h3>
+<a href="https://zeta-max.vercel.app"><img src="./media/previews/zetamax.jpg" alt="Zetamax arithmetic round with a division problem and countdown timer" width="360" /></a>
+<p>Timed mental math with practice and ranked rounds.</p>
+<p><a href="https://github.com/Smokeybear10/301.GAME.zetamax">Code</a></p>
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
-<h3><a href="https://harbor.thomasou.com">Harbor</a></h3>
-<a href="https://harbor.thomasou.com"><img src="./media/previews/harbor.png" alt="Harbor vessel map with maritime risk alerts around Los Angeles and Long Beach" width="360" /></a>
-<p>A vessel map with AIS anomaly detection and satellite imagery.</p>
-<p><a href="https://github.com/Smokeybear10/003.CORE.harbor">Code</a></p>
+<h3><a href="https://dance.thomasou.com">D4NCE</a></h3>
+<a href="https://dance.thomasou.com"><img src="./media/previews/d4nce.png" alt="D4NCE with two loaded tracks, mixer controls, and a track library" width="360" /></a>
+<p>A two-deck DJ app in the browser. Mix manually or control it with text and voice.</p>
+<p><a href="https://github.com/Smokeybear10/001.CORE.d4nce">Code</a></p>
 </td>
 </tr>
 </table>
