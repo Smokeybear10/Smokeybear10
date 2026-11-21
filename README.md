@@ -45,12 +45,14 @@ I study math and computer science at Penn. I’m interested in game theory and p
 
 ## Research
 
-- [River](https://github.com/Smokeybear10/103.RSCH.river): a poker solver in Rust using counterfactual regret minimization.
-- [Versus](https://github.com/Smokeybear10/005.CORE.versus): predicting UFC results with ensemble models and feature attribution.
-- [Earnings Disclosure Spillovers and Peer-Return Prediction](https://github.com/Smokeybear10/earnings-disclosure-spillovers-and-peer-return-prediction): testing whether earnings disclosures help forecast returns of semiconductor peers.
+- [River](https://github.com/Smokeybear10/102.RSCH.bayesian-opponent-modeling-in-poker): a poker solver in Rust using counterfactual regret minimization.
+- [Versus](https://github.com/Smokeybear10/003.CORE.versus): predicting UFC results with ensemble models and feature attribution.
+- [Earnings Disclosure Spillovers and Peer-Return Prediction](https://github.com/Smokeybear10/101.RSCH.earnings-disclosure-spillovers-and-peer-return-prediction): testing whether earnings disclosures help forecast returns of semiconductor peers.
 
 ## Contributions
 
+- [scikit-posthocs: pooled t-tests with tuple-valued group labels](https://github.com/maximtrp/scikit-posthocs/pull/128), merged. Fixed `posthoc_ttest` failing when DataFrame group labels are tuples.
+- [CSpell: integration workflow concurrency](https://github.com/streetsidesoftware/cspell/pull/9654), merged. Scoped the `integration.yml` concurrency group so `main` runs are not canceled by unrelated commits.
 - [HarborOS: vessel API pagination and query changes](https://github.com/asrinivasan75/HarborOS/pull/1), merged. Added pagination and replaced per-vessel position and alert queries with joined queries.
 - [Chain-Love: explorer schema naming proposal](https://github.com/Chain-Love/chain-love/issues/3256), open proposal. Documented the affected data and a compatibility plan for renaming a verification field.
 
@@ -63,21 +65,21 @@ I study math and computer science at Penn. I’m interested in game theory and p
 
 - [thomasou.com](https://github.com/Smokeybear10/000.CORE.portfolio): my personal website.
 - [D4NCE](https://github.com/Smokeybear10/001.CORE.d4nce): DJ decks and mixing in the browser.
-- [Harbor](https://github.com/Smokeybear10/003.CORE.harbor): vessel tracking and AIS anomaly detection.
+- [Harbor](https://github.com/Smokeybear10/002.CORE.harbor): vessel tracking and AIS anomaly detection.
+- [Versus](https://github.com/Smokeybear10/003.CORE.versus): UFC fight predictions.
 
 ### RSCH
 
-- [Conformal calibration under new-participant shift](https://github.com/Smokeybear10/conformal-calibration-under-shift): participant-level coverage and review-rate experiments on UCI HAR and WISDM.
-- [Strike](https://github.com/Smokeybear10/100.RSCH.strike): detecting strikes in MMA footage with computer vision.
-- [River](https://github.com/Smokeybear10/103.RSCH.river): poker solving with Monte Carlo counterfactual regret minimization.
-- [Fortify](https://github.com/Smokeybear10/104.RSCH.fortify): U.S. military invention proposals and research spending, 1888–1920.
-- [Earnings Disclosure Spillovers and Peer-Return Prediction](https://github.com/Smokeybear10/earnings-disclosure-spillovers-and-peer-return-prediction): earnings disclosures and semiconductor peer-return forecasts.
+- [Conformal calibration under new-participant shift](https://github.com/Smokeybear10/103.RSCH.conformal-calibration-under-shift): participant-level coverage and review-rate experiments on UCI HAR and WISDM.
+- [Strike](https://github.com/Smokeybear10/106.RSCH.mma-strike-classification-and-foreground-masking): detecting strikes in MMA footage with computer vision.
+- [River](https://github.com/Smokeybear10/102.RSCH.bayesian-opponent-modeling-in-poker): poker solving with Monte Carlo counterfactual regret minimization.
+- [Fortify](https://github.com/Smokeybear10/105.RSCH.military-innovation-and-technology-adoption): U.S. military invention proposals and research spending, 1888–1920.
+- [Earnings Disclosure Spillovers and Peer-Return Prediction](https://github.com/Smokeybear10/101.RSCH.earnings-disclosure-spillovers-and-peer-return-prediction): earnings disclosures and semiconductor peer-return forecasts.
 
 ### PROJ
 
-- [Governor](https://github.com/Smokeybear10/207.PROJ.governor): an extension for setting AI job budgets.
-- [Sonder](https://github.com/Smokeybear10/208.PROJ.sonder): screening EV charger sites using 3D scans.
-- [Versus](https://github.com/Smokeybear10/005.CORE.versus): UFC fight predictions.
+- [Governor](https://github.com/Smokeybear10/404.PROJ.governor): an extension for setting AI job budgets.
+- [Sonder](https://github.com/Smokeybear10/405.PROJ.sonder): screening EV charger sites using 3D scans.
 
 ### GAME
 
@@ -86,12 +88,11 @@ I study math and computer science at Penn. I’m interested in game theory and p
 
 ### DATA
 
-- [Music Assets](https://github.com/Smokeybear10/803.DATA.music): audio shared by D4NCE and Zetamax.
+- [Music Assets](https://github.com/Smokeybear10/802.DATA.music): audio shared by D4NCE and Zetamax.
 
 ### MISC
 
 - [Portfolio 2025](https://github.com/Smokeybear10/902.MISC.portfolio-2025): my first website, now archived.
-- [Cursor Boston](https://github.com/Smokeybear10/cursor-boston): a fork of the Cursor Boston community site.
 
 </details>
 
